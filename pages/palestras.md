@@ -8,7 +8,8 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/palestras/"
 ---
-#### Palestras a definir
+Palestras a definir
+
 <!-- {% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %} -->
 
 

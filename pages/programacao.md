@@ -8,7 +8,8 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/programacao/"
 ---
-#### Programação a definir
+Programação a definir
+
 <!--# Dia 1 (Dia da semana)
 ##### Atividades do SEMESO
 

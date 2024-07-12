@@ -8,7 +8,8 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/minicursos/"
 ---
-#### Minicursos a definir
+Minicursos a definir
+
 <!--<div class="row t30" id="minicurso_a"></div>
 
 # Minicurso A

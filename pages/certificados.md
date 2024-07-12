@@ -1,15 +1,16 @@
 ---
 layout: page-fullwidth
 title: "Certificados"
-meta_title: "SEMESO 2023"
-subheadline: "SEMESO 2023 - 25 a 28/9 - UDESC Alto Vale"
-teaser: "X Seminário de Engenharia de Software"
+meta_title: "SEMESO 2024"
+subheadline: "SEMESO 2024 - 09 a 11/10 - UDESC Alto Vale"
+teaser: "XI Seminário de Engenharia de Software"
 header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/certificados/"
 ---
+Certificados a definir
 
-Foram emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
+<!--Foram emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
 
 **Atenção** para os critérios de emissão de certificados, descritos mais abaixo.
 
@@ -40,7 +41,7 @@ Foi emitido um certificado para cada minicurso em que o participante registrou *
 
 O participante inscrito que **não compareceu** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
-Os certificados dos minicursos poderão ser utilizados para validar atividades complementares.
+Os certificados dos minicursos poderão ser utilizados para validar atividades complementares.-->
 
 
 
