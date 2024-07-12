@@ -8,22 +8,15 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/inscricoes/"
 ---
-
-As inscrições nas atividades do SEMESO são realizadas conforme descrito a seguir.
-
-
-### I Encontro Meninas Digitais Alto Vale do Itajaí
-
-Para participar do [Primeiro Encontro das Meninas Digitais do Alto Vale do Itajaí][meninas_digitais] preencha este formulário: [https://forms.office.com/r/2VS3AJA1QX][formmdavi].
+#### Inscrições a definir
+<!--As inscrições nas atividades do SEMESO são realizadas conforme descrito a seguir.
 
 
 ### Palestras
 
-As palestras do SEMESO realizadas em **27 e 28/9** no período **noturno** são **gratuitas** e **abertas ao público**. 
+As palestras do SEMESO realizadas em **(data)** no período **noturno** são **gratuitas** e **abertas ao público**. 
 
 Não é necessário inscrição, mas **recomenda-se** chegar ao local com antecedência para garantir lugar na plateia.
-
-Consulte a página da [SEPEX][sepex] para verificar a inscrição nas atividades de **25 e 26/9**.
 
 ### Minicursos
 
@@ -44,7 +37,7 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 
 **Seja consciente** e inscreva-se apenas em minicurso que você atende aos pré-requisitos. Assim você terá melhor aproveitamento do conteúdo, pois os instrutores **não vão explicar/revisar** os conceitos descritos nos pré-requisitos. 
 
-O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
+O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.-->
 
 
 [sepex]: https://www.udesc.br/ceavi/sepex/2023
