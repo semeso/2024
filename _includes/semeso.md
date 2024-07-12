@@ -1,17 +1,14 @@
 
-#### 25 a 28 de setembro de 2023*
+#### 09 a 11 de outubro de 2024
 
 ##### UDESC Alto Vale - Ibirama - SC
 &nbsp;
 
-O <strong>X Seminário de Engenharia de Software</strong> (SEMESO 2023) é um evento promovido pelo Departamento de Engenharia de Software da [UDESC Alto Vale][ceavi]. Seu objetivo é oferecer o intercâmbio de conhecimentos entre profissionais e acadêmicos por meio de palestras e minicursos. É destinado a alunos e professores do curso de Engenharia de Software, sendo aberto a profissionais engenheiros de software, programadores, administradores de sistemas, técnicos em informática, empreendedores, educadores, e estudantes do ensino médio. O evento também atua como semana acadêmica do curso de Bacharelado em Engenharia de Software.
-
-*O SEMESO 2023 será realizado em conjunto com a [Semana de Ensino, Pesquisa e Extensão][sepex] (SEPEX). A SEPEX é um evento que promove as atividades da [UDESC Alto Vale][ceavi], por meio da exposição de projetos de ensino, pesquisa e extensão, de seus cursos e demais oportunidades oferecidas pela instituição. A SEPEX objetiva socializar as ações desenvolvidas na UDESC Alto Vale entre acadêmicos dos diferentes cursos e a comunidade externa.
-
+O <strong>XI Seminário de Engenharia de Software</strong> (SEMESO 2024) é um evento promovido pelo Departamento de Engenharia de Software da [UDESC Alto Vale][ceavi]. Seu objetivo é oferecer o intercâmbio de conhecimentos entre profissionais e acadêmicos por meio de palestras e minicursos. É destinado a alunos e professores do curso de Engenharia de Software, sendo aberto a profissionais engenheiros de software, programadores, administradores de sistemas, técnicos em informática, empreendedores, educadores, e estudantes do ensino médio. O evento também atua como semana acadêmica do curso de Bacharelado em Engenharia de Software.
 
 ##### Histórico do SEMESO
 
-A primeira edição do SEMESO ocorreu em 2014, com a implantação do Bacharelado em Engenharia de Software. Desde então, o SEMESO é realizado anualmente. As edições I a V foram organizadas de forma independente. Já as edições VI a IX ocorreram de forma integrada ao evento Escola Regional de Engenharia de Software (ERES). Neste ano de 2023 o SEMESO está em sua décima edição – X SEMESO – e será organizado de forma gratuita, para oportunizar a participação de acadêmicos e da comunidade regional.
+A primeira edição do SEMESO ocorreu em 2014, com a implantação do Bacharelado em Engenharia de Software. Desde então, o SEMESO é realizado anualmente. As edições I a V foram organizadas de forma independente. Já as edições VI a IX ocorreram de forma integrada ao evento Escola Regional de Engenharia de Software (ERES). Já edição X ocorreu em conjunto com a [Semana de Ensino, Pesquisa e Extensão][sepex] (SEPEX). Neste ano de 2024 o SEMESO está em sua décima primeira edição – XI SEMESO – e será organizado de forma gratuita, para oportunizar a participação de acadêmicos e da comunidade regional.
 
 ##### Importância do SEMESO
 

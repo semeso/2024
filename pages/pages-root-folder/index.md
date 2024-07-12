@@ -7,8 +7,8 @@
 # O layout frontpage faz o ultimo arquivo de _posts aparecer na pagina inicial
 #
 layout: page-fullwidth
-title: "SEMESO 2023"
-teaser: "X Seminário de Engenharia de Software."
+title: "SEMESO 2024"
+teaser: "XI Seminário de Engenharia de Software."
 header:
    image_fullwidth: "banner-site.jpg"
 permalink: /index.html
