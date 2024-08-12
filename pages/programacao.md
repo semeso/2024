@@ -8,22 +8,50 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/programacao/"
 ---
-Programação a definir
 
-<!--# Dia 1 (Dia da semana)
+{% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %}
+
+# 9/10 (quarta)
 ##### Atividades do SEMESO
 
+##### Horário: 14:00 - 18:00
+###### Atividade: Minicursos
 <hr>
 
-# Dia 2 (Dia da semana)
-##### Atividades do SEMESO
-
+##### Horário: 19:00 - 20:15
+###### Atividade: Palestra
 <hr>
 
-# Dia 3 (Dia da semana)
+##### Horário: 20:45 - 22:00
+###### Atividade: Painel Indústria
+<hr>
+
+# 10/10 (quinta)
 ##### Atividades do SEMESO
 
-<hr>-->
+##### Horário: 14:00 - 18:00
+###### Atividade: Visita Técnica
+<hr>
+
+##### Horário: 19:00 - 22:00
+###### Atividade: Minicursos
+<hr>
+
+# 11/10 (sexta)
+##### Atividade do SEMESO
+
+##### Horário: 14:00 - 18:00
+###### Atividade: Minicursos
+<hr>
+
+##### Horário: 19:00 - 20:15
+###### Atividade: Palestra
+<hr>
+
+##### Horário: 20:45 - 22:00
+###### Atividade: Painel Egressos
+
+<hr>
 
 
 
