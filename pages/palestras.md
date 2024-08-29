@@ -8,9 +8,8 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/palestras/"
 ---
-Palestras a definir
 
-<!-- {% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %} -->
+{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %} 
 
 
 [mgf]: http://lattes.cnpq.br/9540472751590233
