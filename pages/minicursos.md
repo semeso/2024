@@ -34,6 +34,8 @@ A definir
 ###### Nome Ministrante
 A definir
 
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
 ##### Coordenador:
 A definir
 
@@ -61,6 +63,8 @@ A definir
 
 ###### Nome Ministrante
 A definir
+
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
 
 ##### Coordenador:
 A definir
@@ -90,6 +94,8 @@ A definir
 ###### Nome Ministrante
 A definir
 
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
 ##### Coordenador:
 A definir
 
@@ -118,6 +124,8 @@ A definir
 ###### Nome Ministrante
 A definir
 
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
 ##### Coordenador:
 A definir
 
@@ -145,6 +153,8 @@ A definir
 
 ###### Nome Ministrante
 A definir
+
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
 
 ##### Coordenador:
 A definir
