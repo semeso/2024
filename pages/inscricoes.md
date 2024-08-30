@@ -10,7 +10,7 @@ permalink: "/inscricoes/"
 ---
 Inscrições a definir
 
-<!--As inscrições nas atividades do SEMESO são realizadas conforme descrito a seguir.
+As inscrições nas atividades do SEMESO são realizadas conforme descrito a seguir.
 
 
 ### Palestras
@@ -25,14 +25,13 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 
 
 #### Inscrições para acadêmicos de Engenharia de Software
-- Período: 6 a 17/9.
-- Formulário de inscrição: [https://forms.office.com/r/4x7vMA2n7B][formminieso]. Leia atentamente as instruções no formulário. É necessário se autenticar com seu usuário/senha do ID UDESC.
-- **ATENÇÃO**: caso desista de participar em minicurso, acesse novamente o formulário para **desfazer** a inscrição.
+- Período: 
+- Formulário de inscrição: 
 
 
 #### Inscrições para público geral
-- Período: 21 a 25/9.
-- Formulário de inscrição: [https://forms.office.com/r/4x7vMA2n7B][formminiesopublico]. Leia atentamente as instruções no formulário.
+- Período:
+- Formulário de inscrição: 
 
 #### Orientações importantes
 
@@ -41,8 +40,6 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.-->
 
 
-[sepex]: https://www.udesc.br/ceavi/sepex/2023
-[formminieso]: https://forms.office.com/r/4x7vMA2n7B
-[formmdavi]: https://forms.office.com/r/2VS3AJA1QX
-[meninas_digitais]: {{ site.url }}/palestras/#meninas_digitais
-[formminiesopublico]: https://forms.office.com/r/4x7vMA2n7B
+[formminieso]: https://forms.office.com/
+[formmdavi]: https://forms.office.com/
+[formminiesopublico]: https://forms.office.com/

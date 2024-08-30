@@ -19,6 +19,10 @@ Profª. Dra. [Marília Guterres Ferreira][mgf]
 
 Prof. Msc. [Mattheus da Hora França][mhf]
 
+## Coordenação de Infraestrutura
+
+Prof. Msc. [Carlos Alberto Barth][cab]
+
 ## Equipe Organizadora
 
 Prof. Dr. [Adilson Vahldick][av]

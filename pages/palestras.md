@@ -23,13 +23,13 @@ Descrição Palestra
 Descrição Palestrante
 
 ##### Data:
-A definir
+10/10
 
 ##### Horário:
-A definir
+19:00 - 20:15
 
 ##### Local:
-A definir
+Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
 A definir
@@ -38,26 +38,41 @@ A definir
 
 <div class="row 130" id="palestra_b"></div>
 
-## Título Palestra (A definir)
+## Painel com a Indústria de Software
 
-Descrição Palestra
+Neste painel teremos um bate-papo com profissionais da indústria para discutir desafios e tendências na Engenharia de Software.
 
-### Nome Palestrante (A definir)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+### Painelistas
+<div class="row">
+  <div class="medium-4 large-4 columns">
+    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
+    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
+    <p>A definir</p>
+  </div>
+  <div class="medium-4 large-4 columns">
+    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
+    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
+    <p>A definir</p> 
+  </div>
+  <div class="medium-4 large-4 columns">
+    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
+    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
+    <p>A definir</p>
+  </div>
+</div>
 
-Descrição Palestrante
+### Mediadora
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 ##### Data:
-A definir
+10/10
 
 ##### Horário:
-A definir
+20:45 - 22:00
 
 ##### Local:
-A definir
+Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-##### Anfitrião
-A definir
 
 <hr>
 
@@ -73,13 +88,13 @@ Descrição Palestra
 Descrição Palestrante
 
 ##### Data:
-A definir
+11/10
 
 ##### Horário:
-A definir
+19:00 - 20:15
 
 ##### Local:
-A definir
+Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
 A definir
@@ -88,26 +103,40 @@ A definir
 
 <div class="row 130" id="palestra_d"></div>
 
-## Título Palestra (A definir)
+## Painel com Egressos de Engenharia de Software da UDESC
 
-Descrição Palestra
+Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDESC sobre a carreira, oportunidades, dificuldades, e dicas para os atuais alunos. 
 
-### Nome Palestrante (A definir)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+### Painelistas
+<div class="row">
+  <div class="medium-4 large-4 columns">
+    <img class="img-responsive" src="{{site.urlimg}}foto-brenda-paetzoldt.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/brenda-paetzoldt/">Brenda Paetzoldt</a></h4>
+    <p>Analista de Migração de Dados na Nydus Systems</p>
+  </div>
+  <div class="medium-4 large-4 columns">
+    <img class="img-responsive" src="{{site.urlimg}}foto-douglas-martins.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/souzadouglasmartins/">Douglas Martins</a></h4>
+    <p>UX Designer na Globo</p>    
+  </div>
+  <div class="medium-4 large-4 columns">
+    <img class="img-responsive" src="{{site.urlimg}}foto-eloisa-bazzanella.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/elo%C3%ADsa-bazzanella-60464317b/">Eloísa Bazzanella</a></h4>
+    <p>Backend Developer na PicPay</p>
+  </div>
+</div>
 
-Descrição Palestrante
+### Mediador
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
 ##### Data:
-A definir
+11/10
 
 ##### Horário:
-A definir
+20:45 - 22:00
 
 ##### Local:
-A definir
-
-##### Anfitrião
-A definir
+Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <hr>
 

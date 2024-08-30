@@ -8,7 +8,7 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/certificados/"
 ---
-Certificados a definir
+Os certificados serão disponibilizados após a realização do evento.
 
 <!--Foram emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
 
