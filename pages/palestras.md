@@ -78,14 +78,19 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <div class="row 130" id="palestra_c"></div>
 
-## Título Palestra (A definir)
+## Palestra sobre Agentes + Internet das Coisas + Sistemas Embarcados (título a definir)
 
-Descrição Palestra
+Palestra sobre agentes, internet das coisas (IoT) e sistemas embarcados.
 
-### Nome Palestrante (A definir)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+### Prof. Dr. [Carlos Edurdo Pantoja][carlospantoja] (CEFET/RJ)
+<img class="img-responsive" src="{{site.urlimg}}foto-carlos-pantoja.jpg"/>
 
-Descrição Palestrante
+Resumo do palestrante
+
+### Prof. MSc. [Nilson Mori Lazarin][nilsonlazarin] (CEFET/RJ)
+<img class="img-responsive" src="{{site.urlimg}}foto-nilson-lazarin.jpg"/>
+
+Resumo do palestrante
 
 ##### Data:
 11/10
@@ -145,4 +150,5 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 [fds]: http://lattes.cnpq.br/9532186865794326
 [mhf]: http://lattes.cnpq.br/2665316828133413
 [ceavi]: http://www.ceavi.udesc.br
-[mdvi]: https://meninasdigitaisval.wixsite.com/meninasdigitais
+[carlospantoja]: http://lattes.cnpq.br/4343654212657424
+[nilsonlazarin]: http://lattes.cnpq.br/4304954704049203

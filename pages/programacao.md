@@ -50,7 +50,7 @@ permalink: "/programacao/"
 <hr>
 
 ##### Horário: 19:00 - 20:15
-###### Palestra: [a definir][plc]
+###### Palestra: [Agentes + Internet das Coisas + Sistemas Embarcados][plc]
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
 
