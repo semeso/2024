@@ -31,6 +31,26 @@ A definir
 
 <hr>
 
+<div class="row 130" id="palestra_v"></div>
+
+## Visita Técnica
+
+A definir
+
+##### Data:
+9/10
+
+##### Horário:
+13:30 - 18:00
+
+##### Local:
+A definir
+
+##### Anfitrião
+A definir
+
+<hr>
+
 
 <div class="row 130" id="palestra_a"></div>
 
@@ -59,34 +79,34 @@ A definir
 
 <div class="row 130" id="palestra_b"></div>
 
-## Painel com a Indústria de Software
+## Painel com Egressos de Engenharia de Software da UDESC
 
-Neste painel teremos um bate-papo com profissionais da indústria para discutir desafios e tendências na Engenharia de Software.
+Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDESC sobre a carreira, oportunidades, dificuldades, e dicas para os atuais alunos. 
 
 ### Painelistas
 <div class="row">
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
-    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
-    <p>A definir</p>
+    <img class="img-responsive" src="{{site.urlimg}}foto-brenda-paetzoldt.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/brenda-paetzoldt/">Brenda Paetzoldt</a></h4>
+    <p>Analista de Migração de Dados na Nydus Systems</p>
   </div>
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
-    <h4><a href="https://www.linkedin.com/in/fernanda-gums/">Fernanda Gums</a></h4>
-    <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
+    <img class="img-responsive" src="{{site.urlimg}}foto-douglas-martins.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/souzadouglasmartins/">Douglas Martins</a></h4>
+    <p>UX Designer na Globo</p>    
   </div>
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
-    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
-    <p>A definir</p>
+    <img class="img-responsive" src="{{site.urlimg}}foto-eloisa-bazzanella.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/elo%C3%ADsa-bazzanella-60464317b/">Eloísa Bazzanella</a></h4>
+    <p>Backend Developer na PicPay</p>
   </div>
 </div>
 
-### Mediadora
-Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+### Mediador
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
 ##### Data:
-10/10
+11/10
 
 ##### Horário:
 20:45 - 22:00
@@ -129,34 +149,34 @@ A definir
 
 <div class="row 130" id="palestra_d"></div>
 
-## Painel com Egressos de Engenharia de Software da UDESC
+## Painel com a Indústria de Software
 
-Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDESC sobre a carreira, oportunidades, dificuldades, e dicas para os atuais alunos. 
+Neste painel teremos um bate-papo com profissionais da indústria para discutir desafios e tendências na Engenharia de Software.
 
 ### Painelistas
 <div class="row">
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}foto-brenda-paetzoldt.jpg"/>
-    <h4><a href="https://www.linkedin.com/in/brenda-paetzoldt/">Brenda Paetzoldt</a></h4>
-    <p>Analista de Migração de Dados na Nydus Systems</p>
+    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
+    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
+    <p>A definir</p>
   </div>
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}foto-douglas-martins.jpg"/>
-    <h4><a href="https://www.linkedin.com/in/souzadouglasmartins/">Douglas Martins</a></h4>
-    <p>UX Designer na Globo</p>    
+    <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/fernanda-gums/">Fernanda Gums</a></h4>
+    <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
   </div>
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}foto-eloisa-bazzanella.jpg"/>
-    <h4><a href="https://www.linkedin.com/in/elo%C3%ADsa-bazzanella-60464317b/">Eloísa Bazzanella</a></h4>
-    <p>Backend Developer na PicPay</p>
+    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
+    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
+    <p>A definir</p>
   </div>
 </div>
 
-### Mediador
-Prof. Dr. [Fernando dos Santos][fds] (UDESC)
+### Mediadora
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 ##### Data:
-11/10
+10/10
 
 ##### Horário:
 20:45 - 22:00

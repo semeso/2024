@@ -13,38 +13,6 @@ permalink: "/minicursos/"
 
 <div class="row t30" id="minicurso_a"></div>
 
-# Introdução ao C# para programadores Java 
-
-Aplicações da linguagem C#; Apresentação do ambiente .NET; Comparativos com a linguagem Java; Tipos da linguagem; Orientação a objetos fazendo comparação com a linguagem Java; Comportamento de memória, arrays e listas; LINQ.
-
-{% include alert alert='<strong>Pré-requisitos</strong>: Lógica de programação; Ter familiaridade com orientação a objetos; Diferencial: conhecer/utilizar a linguagem Java .' %}
-
-##### Data:
-9/10
-
-##### Horário:
-13:30 - 18:00
-
-##### Vagas:
-A definir
-
-##### Local:
-A definir
-
-##### Ministrante:
-
-###### [Nicolas Debacher][nicolasdeb]
-
-<img class="img-responsive" src="{{site.urlimg}}foto-nicolas-debacher.jpg"/>
-
-Atualmente no 7 semestre do curso de engenharia de software. Já atuei como programador back-end na linguagem C#. Sou membro ativo na comunidade do .NET e fã assíduo dela. Sigo ampliando meu conhecimento acerca do assunto. 
-
-##### Coordenador:
-A definir
-
-<hr>
-
-<div class="row t30" id="minicurso_b"></div>
 
 # Data Science com R
 
@@ -76,7 +44,8 @@ A definir
 
 <hr>
 
-<div class="row t30" id="minicurso_c"></div>
+<div class="row t30" id="minicurso_b"></div>
+
 
 # React: construção de plataforma de receitas 
 
@@ -109,17 +78,47 @@ A definir
 
 <hr>
 
-<div class="row t30" id="minicurso_d"></div>
+<div class="row t30" id="minicurso_c"></div>
 
-# Minicurso (A definir)
+# Oficina de Robótica
+Ensino de robótica utilizando kits Lego Robotics. Entender o funcionamento dos robôs e suas estruturas (sensores e atuadores). Aprender algumas estruturas de programação e sintaxe aplicada aos robôs. Resolver desafios. 
 
-Descrição do Minicurso
+{% include alert alert='<strong>Pré-requisitos</strong>: conhecimentos básicos em lógica e programação de computadores.' %}
 
 ##### Data:
-A definir
+9/10
 
 ##### Horário:
+18:50 - 22:20
+
+##### Vagas:
 A definir
+
+##### Local:
+Laboratório de Robótica da UDESC Alto Vale ([LABOT][labot])
+
+##### Ministrante:
+###### [Matheus Oliver Rothenburg][matheusrothenburg] ([LABOT][labot] UDESC)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+Sou Técnico em Informática formado pelo IFC - Campus Blumenau e atualmente estou cursando Engenharia de Software na UDESC. Sou bolsista do LABOT (https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot), onde preparo e ministro capacitações de robótica utilizando os kits da Lego Robotics para públicos variados. Além disso, auxilio em outros projetos da faculdade que demandam de uma solução de robótica para tornarem-se concretos. 
+
+##### Coordenador:
+A definir
+
+<hr>
+
+<div class="row t30" id="minicurso_d"></div>
+
+# Título a definir
+
+Descrição a definir
+
+##### Data:
+9/10
+
+##### Horário:
+18:50 - 22:20
 
 ##### Vagas:
 A definir
@@ -129,7 +128,7 @@ A definir
 
 ##### Ministrante:
 
-###### Nome Ministrante (A definir)
+###### [Mateus Lucas Cruz Brandt][mateusbrandt] 
 <img class="img-responsive" src="{{site.urlimg}}person.png"/>
 
 ##### Coordenador:
@@ -163,10 +162,99 @@ A definir
 ##### Coordenador:
 A definir
 
+<hr>
+
+<div class="row t30" id="minicurso_f"></div>
+
+# Minicurso (A definir)
+
+Descrição do Minicurso
+
+##### Data:
+A definir
+
+##### Horário:
+A definir
+
+##### Vagas:
+A definir
+
+##### Local:
+A definir
+
+##### Ministrante:
+
+###### Nome Ministrante (A definir)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+##### Coordenador:
+A definir
 
 <hr>
 
-<div class="row t30" id="minicurso_k"></div>
+<div class="row t30" id="minicurso_g"></div>
+
+# Minicurso (A definir)
+
+Descrição do Minicurso
+
+##### Data:
+A definir
+
+##### Horário:
+A definir
+
+##### Vagas:
+A definir
+
+##### Local:
+A definir
+
+##### Ministrante:
+
+###### Nome Ministrante (A definir)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+##### Coordenador:
+A definir
+
+<hr>
+
+<div class="row t30" id="minicurso_h"></div>
+
+# Introdução ao C# para programadores Java 
+
+Aplicações da linguagem C#; Apresentação do ambiente .NET; Comparativos com a linguagem Java; Tipos da linguagem; Orientação a objetos fazendo comparação com a linguagem Java; Comportamento de memória, arrays e listas; LINQ.
+
+{% include alert alert='<strong>Pré-requisitos</strong>: Lógica de programação; Ter familiaridade com orientação a objetos; Diferencial: conhecer/utilizar a linguagem Java .' %}
+
+##### Data:
+9/10
+
+##### Horário:
+13:30 - 18:00
+
+##### Vagas:
+A definir
+
+##### Local:
+A definir
+
+##### Ministrante:
+
+###### [Nicolas Debacher][nicolasdeb]
+
+<img class="img-responsive" src="{{site.urlimg}}foto-nicolas-debacher.jpg"/>
+
+Atualmente no 7 semestre do curso de engenharia de software. Já atuei como programador back-end na linguagem C#. Sou membro ativo na comunidade do .NET e fã assíduo dela. Sigo ampliando meu conhecimento acerca do assunto. 
+
+##### Coordenador:
+A definir
+
+<hr>
+
+<div class="row t30" id="minicurso_i"></div>
+
 
 # Minicurso sobre UX (título a definir)
 
@@ -195,9 +283,71 @@ UX Designer @ Globo.
 ##### Coordenador:
 A definir
 
+<hr>
+
+<div class="row t30" id="minicurso_j"></div>
+
+# Minicurso (A definir)
+
+Descrição do Minicurso
+
+##### Data:
+A definir
+
+##### Horário:
+A definir
+
+##### Vagas:
+A definir
+
+##### Local:
+A definir
+
+##### Ministrante:
+
+###### Nome Ministrante (A definir)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+##### Coordenador:
+A definir
+
+
+<hr>
+
+<div class="row t30" id="minicurso_k"></div>
+
+
+# Minicurso (A definir)
+
+Descrição do Minicurso
+
+##### Data:
+A definir
+
+##### Horário:
+A definir
+
+##### Vagas:
+A definir
+
+##### Local:
+A definir
+
+##### Ministrante:
+
+###### Nome Ministrante (A definir)
+<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+##### Coordenador:
+A definir
+
+
 
 [mhf]: http://lattes.cnpq.br/2665316828133413
 [nicolasdeb]: https://www.linkedin.com/in/nicolas-debacher-306642263
 [pm]: http://lattes.cnpq.br/2530478080816147
 [myllenamiranda]: https://www.linkedin.com/in/myllena-m-8923121b1
 [douglasmartins]: https://www.linkedin.com/in/souzadouglasmartins
+[labot]: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot
+[matheusrothenburg]: https://www.linkedin.com/in/matheus-oliver-r/ 
+[mateusbrandt]: 
