@@ -11,6 +11,14 @@ permalink: "/programacao/"
 
 {% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %}
 
+
+# 8/10 (terça)
+##### Horário: 20:20 - 20:45
+###### [Abertura do evento][plx] 
+###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+<hr>
+
+
 # 9/10 (quarta)
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Introdução ao C# para programadores Java][mca] 
@@ -60,6 +68,12 @@ permalink: "/programacao/"
 
 <hr>
 
+# 14/10 (segunda)
+##### Horário: 20:20 - 20:45
+###### [Encerramento do evento][plz] 
+###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+<hr>
+
 
 [ceavi]: https://goo.gl/maps/SxDUc5Tw4X2HUoNQ9
 <!-- links dos minicursos -->
@@ -73,3 +87,5 @@ permalink: "/programacao/"
  [plb]: {{ site.url }}/palestras/#palestra_b
  [plc]: {{ site.url }}/palestras/#palestra_c
  [pld]: {{ site.url }}/palestras/#palestra_d
+ [plx]: {{ site.url }}/palestras/#palestra_x
+ [plz]: {{ site.url }}/palestras/#palestra_z
