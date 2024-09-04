@@ -42,7 +42,7 @@ permalink: "/programacao/"
 <hr>
 
 ##### Horário: 13:30 - 18:00
-###### Minicurso: [Minicurso sobre UX (título a definir)][mci]
+###### Minicurso: [Desenhando um app do zero com as melhores práticas do mercado ][mci]
 ###### Local: a definir
 <hr>
 

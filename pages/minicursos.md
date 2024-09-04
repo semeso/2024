@@ -256,13 +256,12 @@ A definir
 <div class="row t30" id="minicurso_i"></div>
 
 
-# Minicurso sobre UX (título a definir)
+# Desenhando um app do zero com as melhores práticas do mercado 
 
-Conteúdo a definir.
-
+Descubra as melhores práticas de design ao criar um aplicativo do zero, mesmo que você não seja designer. Neste minicurso, você aprenderá a usar o Figma para desenhar um aplicativo que seja intuitivo, acessível e visualmente atraente, tudo em etapas simples e diretas. Junte-se a mim e transforme suas ideias em designs profissionais com facilidade. 
 
 ##### Data:
-11/10
+10/10
 
 ##### Horário:
 13:30 - 18:00
@@ -275,10 +274,10 @@ A definir
 
 ##### Ministrante:
 
-###### [Douglas Martins][douglasmartins]
+###### [Douglas Martins][douglasmartins] (UX Designer @ Globo)
 <img class="img-responsive" src="{{site.urlimg}}foto-douglas-martins.jpg"/>
 
-UX Designer @ Globo.
+Olá, sou Douglas (ou Doug, para os mais próximos). Sou formado em Engenharia de Software e hoje atuo integralmente como designer de experiência de usuário na Globo, a maior mediatech da América Latina. Minha jornada começou ao me aventurar em uma nova área, movido pela paixão em criar experiências que inspiram e pelo desejo constante de aprender e evoluir. 
 
 ##### Coordenador:
 A definir
