@@ -110,9 +110,28 @@ A definir
 
 <div class="row t30" id="minicurso_d"></div>
 
-# Título a definir
+# Full Text Search e buscas textuais avançadas no PostgreSQL  
 
-Descrição a definir
+{% include alert alert='<strong>Pré-requisitos</strong>: ter cursado a disciplina Persistência de Dados da 4ª fase do curso de Engenharia de Software, para ter conhecimentos sobre consultas em um banco de dados e também sobre functions, triggers e stored procedures. .' %}
+
+1. Introdução 
+   - O que é Full Text Search (FTS); 
+   - Diferença entre FTS e buscas por palavras chaves tradicionais; 
+   - Casos de uso comum para FTS; 
+   - Cases, exemplos reais de empresas ou projetos que utilizaram o FTS como solução; 
+  
+2. Conceitos Fundamentais: 
+   - Aprofundando em lexemes, dicionários e stop words; 
+   - Tokenização, quebra de texto em tokens; 
+   - Como funciona ts_query e ts_vector; 
+   - Indexação de dados para melhorar a performance; 
+  
+3. Revisando alguns assuntos: 
+   - Functions; 
+   - Triggers; 
+   - Stored Procedures;
+
+4. Praticando FTS numa base de dados
 
 ##### Data:
 9/10
@@ -128,8 +147,10 @@ A definir
 
 ##### Ministrante:
 
-###### [Mateus Lucas Cruz Brandt][mateusbrandt] 
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+###### [Lucas Eduardo Nogueira][lucasnogueira]
+<img class="img-responsive" src="{{site.urlimg}}foto-lucas-nogueira.jpg"/>
+
+Acadêmico do curso de Engenharia de Software na UDESC-CEAVI. Ex analista de sistema, desenvolvedor web e, agora, ministrante do curso de Full Text Search. Acredito que o conhecimento abre fronteiras e amplia horizontes, permitindo-nos explorar novas possibilidades e crescer continuamente. 
 
 ##### Coordenador:
 A definir
@@ -156,7 +177,7 @@ A definir
 
 ##### Ministrante:
 
-###### Nome Ministrante (A definir)
+###### Nome Ministrante (A definir) 
 <img class="img-responsive" src="{{site.urlimg}}person.png"/>
 
 ##### Coordenador:
@@ -349,4 +370,4 @@ A definir
 [douglasmartins]: https://www.linkedin.com/in/souzadouglasmartins
 [labot]: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot
 [matheusrothenburg]: https://www.linkedin.com/in/matheus-oliver-r/ 
-[mateusbrandt]: 
+[lucasnogueira]: https://www.linkedin.com/in/lucas-nogueira-695145241

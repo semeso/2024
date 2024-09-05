@@ -31,9 +31,21 @@ permalink: "/programacao/"
 <hr>
 
 ##### Horário: 18:50 - 22:20
-###### Minicurso: [React: construção de plataforma de receitas ][mcb]
+###### Minicurso: [React: construção de plataforma de receitas][mcb]
 ###### Local: a definir
 <hr>
+
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Oficina de Robótica][mcc]
+###### Local: LABOT
+<hr>
+
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Full Text Search e buscas textuais avançadas no PostgreSQL][mcd]
+###### Local: a definir
+<hr>
+
+
 
 # 10/10 (quinta)
 ##### Horário: 13:30 - 18:00
@@ -59,7 +71,7 @@ permalink: "/programacao/"
 
 # 11/10 (sexta)
 ##### Horário: 13:30 - 18:00
-###### Minicurso: [Minicurso sobre UX (título a definir)][mck]
+###### Minicurso: a definir
 ###### Local: a definir
 <hr>
 
