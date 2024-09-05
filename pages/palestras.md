@@ -119,7 +119,7 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <div class="row 130" id="palestra_c"></div>
 
-## Palestra sobre Agentes + Internet das Coisas + Sistemas Embarcados (título a definir)
+## Palestra Internet das Coisas + Sistemas Multiagente + Sistemas Embarcados (título a definir)
 
 Palestra sobre agentes, internet das coisas (IoT) e sistemas embarcados.
 

@@ -250,7 +250,7 @@ Aplicações da linguagem C#; Apresentação do ambiente .NET; Comparativos com 
 {% include alert alert='<strong>Pré-requisitos</strong>: Lógica de programação; Ter familiaridade com orientação a objetos; Diferencial: conhecer/utilizar a linguagem Java .' %}
 
 ##### Data:
-9/10
+10/10
 
 ##### Horário:
 13:30 - 18:00
@@ -307,15 +307,15 @@ A definir
 
 <div class="row t30" id="minicurso_j"></div>
 
-# Minicurso (A definir)
+# Minicurso sobre Internet das Coisas, Sistemas Multiagente e Sistemas Embarcados (título a definir)
 
 Descrição do Minicurso
 
 ##### Data:
-A definir
+11/10
 
 ##### Horário:
-A definir
+13:30 - 18:00
 
 ##### Vagas:
 A definir
@@ -323,10 +323,18 @@ A definir
 ##### Local:
 A definir
 
-##### Ministrante:
+##### Ministrantes:
 
-###### Nome Ministrante (A definir)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+###### Prof. Dr. [Carlos Edurdo Pantoja][carlospantoja] (CEFET/RJ)
+<img class="img-responsive" src="{{site.urlimg}}foto-carlos-pantoja.jpg"/>
+
+Resumo do palestrante
+
+###### Prof. MSc. [Nilson Mori Lazarin][nilsonlazarin] (CEFET/RJ)
+<img class="img-responsive" src="{{site.urlimg}}foto-nilson-lazarin.jpg"/>
+
+Resumo do palestrante
+
 
 ##### Coordenador:
 A definir
@@ -337,15 +345,15 @@ A definir
 <div class="row t30" id="minicurso_k"></div>
 
 
-# Minicurso (A definir)
+# Estratégias de otimização em aplicações ReactJS  
 
 Descrição do Minicurso
 
 ##### Data:
-A definir
+11/10
 
 ##### Horário:
-A definir
+13:30 - 18:00
 
 ##### Vagas:
 A definir
@@ -355,8 +363,10 @@ A definir
 
 ##### Ministrante:
 
-###### Nome Ministrante (A definir)
+###### [Bruno Espindola][brunoespindola] 
 <img class="img-responsive" src="{{site.urlimg}}person.png"/>
+
+Atuo profissionalmente com desenvolvedor desde 2018. Ao longo desses anos, tive a oportunidade de trabalhar com diferentes demandas e tecnologias. Atualmente, concentro minhas atividades no setor de segurança, atuando como desenvolvedor front-end na empresa de tecnologia Segware (https://segware.com/). O setor de segurança tem como uma de suas características a preocupação extrema com disponibilidade e desempenho de determinados recursos. Destarte, tornou-se frequente em minha rotina o emprego de técnicas de otimização para lidar com grandes volumes de dados, atualizações e disponibilidade em tempo real. 
 
 ##### Coordenador:
 A definir
@@ -371,3 +381,6 @@ A definir
 [labot]: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot
 [matheusrothenburg]: https://www.linkedin.com/in/matheus-oliver-r/ 
 [lucasnogueira]: https://www.linkedin.com/in/lucas-nogueira-695145241
+[brunoespindola]: https://www.linkedin.com
+[carlospantoja]: http://lattes.cnpq.br/4343654212657424
+[nilsonlazarin]: http://lattes.cnpq.br/4304954704049203

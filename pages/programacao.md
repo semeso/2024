@@ -71,12 +71,17 @@ permalink: "/programacao/"
 
 # 11/10 (sexta)
 ##### Horário: 13:30 - 18:00
-###### Minicurso: a definir
+###### Minicurso: [Internet das Coisas + Sistemas Multiagente + Sistemas Embarcados][mcj]
+###### Local: a definir
+<hr>
+
+##### Horário: 13:30 - 18:00
+###### Minicurso: [Estratégias de otimização em aplicações ReactJS][mck]
 ###### Local: a definir
 <hr>
 
 ##### Horário: 19:00 - 20:15
-###### Palestra: [Agentes + Internet das Coisas + Sistemas Embarcados][plc]
+###### Palestra: [Internet das Coisas + Sistemas Multiagente + Sistemas Embarcados][plc]
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
 
