@@ -21,7 +21,7 @@ Cerimônia de abertura com recepção dos alunos e palestrantes.
 8/10
 
 ##### Horário:
-20:20 - 20:45
+20:15 - 20:45
 
 ##### Local:
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
@@ -198,7 +198,7 @@ Divulgação de fotos e números do evento. Sorteio de brindes (se disponíveis)
 14/10
 
 ##### Horário:
-20:20 - 20:45
+20:15 - 20:45
 
 ##### Local:
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)

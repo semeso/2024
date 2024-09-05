@@ -13,7 +13,7 @@ permalink: "/programacao/"
 
 
 # 8/10 (terça)
-##### Horário: 20:20 - 20:45
+##### Horário: 20:15 - 20:45
 ###### [Abertura do evento][plx] 
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
@@ -92,7 +92,7 @@ permalink: "/programacao/"
 <hr>
 
 # 14/10 (segunda)
-##### Horário: 20:20 - 20:45
+##### Horário: 20:15 - 20:45
 ###### [Encerramento do evento][plz] 
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
