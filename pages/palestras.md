@@ -2,7 +2,7 @@
 layout: page-fullwidth
 title: "Palestras"
 meta_title: "SEMESO 2024"
-subheadline: "SEMESO 2024 - 09 a 11/10 - UDESC Alto Vale"
+subheadline: "SEMESO 2024 - 8 a 14/10 - UDESC Alto Vale"
 teaser: "XI Seminário de Engenharia de Software"
 header:
    image_fullwidth: "banner-site.jpg"
@@ -186,7 +186,7 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <hr>
 
-<div class="row 130" id="palestra_x"></div>
+<div class="row 130" id="palestra_z"></div>
 
 ## Encerramento do Evento
 

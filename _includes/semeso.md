@@ -1,5 +1,5 @@
 
-#### 09 a 11 de outubro de 2024
+#### 8 a 14 de outubro de 2024
 
 ##### UDESC Alto Vale - Ibirama - SC
 &nbsp;
