@@ -347,7 +347,7 @@ A definir
 
 # Estratégias de otimização em aplicações ReactJS  
 
-Descrição do Minicurso
+Virtualização, Memoização e Web-workers 
 
 ##### Data:
 11/10
@@ -364,9 +364,9 @@ A definir
 ##### Ministrante:
 
 ###### [Bruno Espindola][brunoespindola] 
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+<img class="img-responsive" src="{{site.urlimg}}foto-bruno-espindola.jpg"/>
 
-Atuo profissionalmente com desenvolvedor desde 2018. Ao longo desses anos, tive a oportunidade de trabalhar com diferentes demandas e tecnologias. Atualmente, concentro minhas atividades no setor de segurança, atuando como desenvolvedor front-end na empresa de tecnologia Segware (https://segware.com/). O setor de segurança tem como uma de suas características a preocupação extrema com disponibilidade e desempenho de determinados recursos. Destarte, tornou-se frequente em minha rotina o emprego de técnicas de otimização para lidar com grandes volumes de dados, atualizações e disponibilidade em tempo real. 
+Atuo profissionalmente como desenvolvedor desde 2018. Ao longo desses anos, tive a oportunidade de trabalhar com diferentes demandas e tecnologias. Atualmente, concentro minhas atividades no setor de segurança, como desenvolvedor front-end na empresa de tecnologia Segware. O setor de segurança se destaca pela preocupação adicional com a disponibilidade e o desempenho de certos recursos. Por isso, técnicas de otimização se tornaram parte frequente da minha rotina para lidar com grandes volumes de dados, atualizações constantes e disponibilidade em tempo real. 
 
 ##### Coordenador:
 A definir
@@ -381,6 +381,6 @@ A definir
 [labot]: https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot
 [matheusrothenburg]: https://www.linkedin.com/in/matheus-oliver-r/ 
 [lucasnogueira]: https://www.linkedin.com/in/lucas-nogueira-695145241
-[brunoespindola]: https://www.linkedin.com
+[brunoespindola]: https://www.linkedin.com/in/bruno-esp%C3%ADndola-37536a1a8/ 
 [carlospantoja]: http://lattes.cnpq.br/4343654212657424
 [nilsonlazarin]: http://lattes.cnpq.br/4304954704049203
