@@ -71,7 +71,7 @@ permalink: "/programacao/"
 
 # 11/10 (sexta)
 ##### Horário: 13:30 - 18:00
-###### Minicurso: [Internet das Coisas + Sistemas Multiagente + Sistemas Embarcados][mcj]
+###### Minicurso: [Introdução a Sistemas Multiagente Embarcados e Distribuídos][mcj]
 ###### Local: a definir
 <hr>
 
