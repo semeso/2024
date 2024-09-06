@@ -99,7 +99,7 @@ Laboratório de Robótica da UDESC Alto Vale ([LABOT][labot])
 
 ##### Ministrante:
 ###### [Matheus Oliver Rothenburg][matheusrothenburg] ([LABOT][labot] UDESC)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+<img class="img-responsive" src="{{site.urlimg}}foto-matheus-rothenburg.jpg"/>
 
 Sou Técnico em Informática formado pelo IFC - Campus Blumenau e atualmente estou cursando Engenharia de Software na UDESC. Sou bolsista do LABOT (https://www.udesc.br/ceavi/acoes-de-extensao/atuais/labot), onde preparo e ministro capacitações de robótica utilizando os kits da Lego Robotics para públicos variados. Além disso, auxilio em outros projetos da faculdade que demandam de uma solução de robótica para tornarem-se concretos. 
 
