@@ -149,16 +149,16 @@ A definir
 
 <div class="row 130" id="palestra_d"></div>
 
-## Painel com a Indústria de Software
+## Painel: Desafios e Tendências na Indústria de Software
 
 Neste painel teremos um bate-papo com profissionais da indústria para discutir desafios e tendências na Engenharia de Software.
 
 ### Painelistas
 <div class="row">
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
-    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
-    <p>A definir</p>
+    <img class="img-responsive" src="{{site.urlimg}}foto-dionara-conrad.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/dionara-conrad/">Dionara Conrad</a></h4>
+    <p>CEO @ Opens Tecnologia | Professional Mentoring, Team Building</p>
   </div>
   <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
@@ -166,9 +166,9 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
     <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
   </div>
   <div class="medium-4 large-4 columns">
-    <img class="img-responsive" src="{{site.urlimg}}person.png"/>
-    <h4><a href="https://semeso.github.io/2024/">A definir</a></h4>
-    <p>A definir</p>
+    <img class="img-responsive" src="{{site.urlimg}}foto-rafael-abrantes.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/rabrante/">Rafael Abrantes</a></h4>
+    <p>Application Developer na IBM</p>
   </div>
 </div>
 
@@ -176,7 +176,7 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
 Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 ##### Data:
-10/10
+11/10
 
 ##### Horário:
 20:45 - 22:00
