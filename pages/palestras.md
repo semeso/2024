@@ -119,19 +119,14 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <div class="row 130" id="palestra_c"></div>
 
-## Palestra Internet das Coisas + Sistemas Multiagente + Sistemas Embarcados (título a definir)
+## Engenharia de Sistemas Multiagentes Embarcados
 
-Palestra sobre agentes, internet das coisas (IoT) e sistemas embarcados.
+Um Sistema Multiagente (SMA) Embarcado é um sistema computacional embarcado em um dispositivo que controla e monitora o Hardware, executa ações e permite comunicação externa com outros sistemas embarcados. O desenvolvimento de um SMA Embarcado é uma tarefa árdua, pois requer conhecimento e conceitos de diferentes áreas, como eletrônica (sensores e atuadores), programação de baixo nível, programação orientada a objetos e, finalmente, programação orientada a agentes, onde o SMA é responsável pela cognição, autonomia e tomada de decisão. Nesta palestra, o processo de desenvolvimento de um SMA Embarcado será explorado mostrando a possibilidade de usar uma versão spin-off do Jason para programar agentes embarcados usando uma distribuição GNU/Linux para embutir sistemas cognitivos. O SMA desenvolvido pode gerenciar o Hardware e se comunicar usando uma rede de Internet das Coisas (IoT) para trocar mensagens e mover agentes entre sistemas. Além disso, serão mostrados os desafios da área envolvendo a Engenharia de Software de tais sistemas.
 
 ### Prof. Dr. [Carlos Eduardo Pantoja][carlospantoja] (CEFET/RJ)
 <img class="img-responsive" src="{{site.urlimg}}foto-carlos-pantoja.jpg"/>
 
-Resumo do palestrante
-
-### Prof. MSc. [Nilson Mori Lazarin][nilsonlazarin] (CEFET/RJ)
-<img class="img-responsive" src="{{site.urlimg}}foto-nilson-lazarin.jpg"/>
-
-Resumo do palestrante
+Eu sou professor e pesquisador do Centro Federal de Educação Tecnológica do Rio de Janeiro (CEFET/RJ), sou formado em Tecnologia de Informática pelo Centro Universitário da Cidade e bacharel em Administração Industrial pelo CEFET/RJ. Possuo mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME) e doutorando bolsista da CAPES em Computação pela Universidade Federal Fluminense (UFF) e doutorado sandwich pela Sorbonne Universités - Pierre et Marie Curie (UPMC) conhecida como Paris-6. Também fui Analista de Tecnologia da Informação do CEFET/RJ entre 2005 e 2009. Em concursos públicos, na área de Informática e Tecnologia, fui aprovado nas primeiras colocações para as universidades UFF, UFRJ, UNIRIO (para cargos de nível superior) e no CEFET/RJ (3x) para os cargos de técnico, analista e professor. Basicamente, atuo na área de Inteligência Artificial, mais especificamente em Sistemas Multiagentes, e Engenharia de Software, mas tenho me aventurado pelas área de Robótica, Computação Ubíqua e na Internet das Coisas ou Internet of Things (IoT). Na área de gestão, atuo na divulgação tecnológica (e atualmente mídias sociais), inovação tecnológica e empreendedorismo, além da Governança da Tecnologia da Informação e de mapeamento de processos. Idealizador do Projeto Turing. Co-coordenador da Olimpíadas Brasileira de Investimentos. 
 
 ##### Data:
 11/10

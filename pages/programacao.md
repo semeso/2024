@@ -81,7 +81,7 @@ permalink: "/programacao/"
 <hr>
 
 ##### Horário: 19:00 - 20:15
-###### Palestra: [Internet das Coisas + Sistemas Multiagente + Sistemas Embarcados][plc]
+###### Palestra: [Engenharia de Sistemas Multiagentes Embarcados][plc]
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
 
