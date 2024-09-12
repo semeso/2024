@@ -332,7 +332,7 @@ A definir
 
 Professor no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFETtRJ). Pesquisador nas áreas de segurança em sistemas de informação e sistemas multiagentes embarcados. 
 
-###### Prof. Dr. [Carlos Edurdo Pantoja][carlospantoja] (CEFET/RJ)
+###### Prof. Dr. [Carlos Eduardo Pantoja][carlospantoja] (CEFET/RJ)
 <img class="img-responsive" src="{{site.urlimg}}foto-carlos-pantoja.jpg"/>
 
 Eu sou professor e pesquisador do Centro Federal de Educação Tecnológica do Rio de Janeiro (CEFET/RJ), sou formado em Tecnologia de Informática pelo Centro Universitário da Cidade e bacharel em Administração Industrial pelo CEFET/RJ. Possuo mestrado em Sistemas e Computação pelo Instituto Militar de Engenharia (IME) e doutorando bolsista da CAPES em Computação pela Universidade Federal Fluminense (UFF) e doutorado sandwich pela Sorbonne Universités - Pierre et Marie Curie (UPMC) conhecida como Paris-6. Também fui Analista de Tecnologia da Informação do CEFET/RJ entre 2005 e 2009. Em concursos públicos, na área de Informática e Tecnologia, fui aprovado nas primeiras colocações para as universidades UFF, UFRJ, UNIRIO (para cargos de nível superior) e no CEFET/RJ (3x) para os cargos de técnico, analista e professor. Basicamente, atuo na área de Inteligência Artificial, mais especificamente em Sistemas Multiagentes, e Engenharia de Software, mas tenho me aventurado pelas área de Robótica, Computação Ubíqua e na Internet das Coisas ou Internet of Things (IoT). Na área de gestão, atuo na divulgação tecnológica (e atualmente mídias sociais), inovação tecnológica e empreendedorismo, além da Governança da Tecnologia da Informação e de mapeamento de processos. Idealizador do Projeto Turing. Co-coordenador da Olimpíadas Brasileira de Investimentos. 

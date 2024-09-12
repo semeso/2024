@@ -123,7 +123,7 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 Palestra sobre agentes, internet das coisas (IoT) e sistemas embarcados.
 
-### Prof. Dr. [Carlos Edurdo Pantoja][carlospantoja] (CEFET/RJ)
+### Prof. Dr. [Carlos Eduardo Pantoja][carlospantoja] (CEFET/RJ)
 <img class="img-responsive" src="{{site.urlimg}}foto-carlos-pantoja.jpg"/>
 
 Resumo do palestrante
