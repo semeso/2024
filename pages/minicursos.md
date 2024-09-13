@@ -112,8 +112,6 @@ A definir
 
 # Full Text Search e buscas textuais avançadas no PostgreSQL  
 
-{% include alert alert='<strong>Pré-requisitos</strong>: ter cursado a disciplina Persistência de Dados da 4ª fase do curso de Engenharia de Software, para ter conhecimentos sobre consultas em um banco de dados e também sobre functions, triggers e stored procedures. .' %}
-
 1. Introdução 
    - O que é Full Text Search (FTS); 
    - Diferença entre FTS e buscas por palavras chaves tradicionais; 
@@ -131,7 +129,10 @@ A definir
    - Triggers; 
    - Stored Procedures;
 
-4. Praticando FTS numa base de dados
+4. Praticando FTS numa base de dados.
+
+{% include alert alert='<strong>Pré-requisitos</strong>: ter cursado a disciplina Persistência de Dados da 4ª fase do curso de Engenharia de Software, para ter conhecimentos sobre consultas em um banco de dados e também sobre functions, triggers e stored procedures. .' %}
+
 
 ##### Data:
 9/10
@@ -159,15 +160,17 @@ A definir
 
 <div class="row t30" id="minicurso_e"></div>
 
-# Minicurso (A definir)
+# Introdução a programação orientada a objetos em Java 
 
-Descrição do Minicurso
+Origem da Orientação a Objeto. Conhecendo os Pilares da Orientação a Objeto - Polimorfismo, Abstração, Encapsulamento e Herança. Como aplicar abstração de objetos reais para serem utilizados na programação.  Como manipular os objetos gerados.  Prática de geração de modelos orientados a objetos. 
+
+{% include alert alert='<strong>Pré-requisitos</strong>: nenhum. Este minicurso é destinado principalmente a acadêmicos da primeira e segunda fase da graduação.' %}
 
 ##### Data:
-A definir
+9/10
 
 ##### Horário:
-A definir
+18:50 - 22:20
 
 ##### Vagas:
 A definir
@@ -177,8 +180,10 @@ A definir
 
 ##### Ministrante:
 
-###### Nome Ministrante (A definir) 
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+###### [Daniel Valdo Dallabeneta][danieldallabeneta] 
+<img class="img-responsive" src="{{site.urlimg}}foto-daniel-dallabeneta.jpg"/>
+
+Quatro anos atuando como programador e analista de software na empresa IPM Sistemas. Cursando último semestre de Engenharia de Software 
 
 ##### Coordenador:
 A definir
@@ -281,6 +286,8 @@ A definir
 
 Descubra as melhores práticas de design ao criar um aplicativo do zero, mesmo que você não seja designer. Neste minicurso, você aprenderá a usar o Figma para desenhar um aplicativo que seja intuitivo, acessível e visualmente atraente, tudo em etapas simples e diretas. Junte-se a mim e transforme suas ideias em designs profissionais com facilidade. 
 
+{% include alert alert='<strong>Pré-requisitos</strong>: nenhum.' %}
+
 ##### Data:
 10/10
 
@@ -309,9 +316,10 @@ A definir
 
 # Introdução a Sistemas Multiagente Embarcados e Distribuídos 
 
-{% include alert alert='<strong>Pré-requisitos</strong>: Conhecimentos básicos em lógica e programação de computadores.' %}
-
 Várias áreas de aplicação têm utilizado o paradigma da Internet das Coisas (IoT) por meio de dispositivos que percebem o ambiente real e produzem dados brutos para serem processados na nuvem. Por outro lado, a computação pervasiva tem utilizado o paradigma da Inteligência Artificial (IA) para promover a extração de informações e a tomada de decisões na camada de computação de borda. Assim, a interseção entre os paradigmas de IA e IoT concebeu uma nova área de possibilidades chamada Inteligência Artificial das Coisas (AIoT). Considerando esse cenário, apresentamos o desenvolvimento de dispositivos IoT cognitivos, autônomos e colaborativos que são capazes de perceber, decidir e agir no mundo real, utilizando uma abordagem de sistemas multiagente embarcados que permite a implementação de atitudes mentais de crenças, desejos e intenções em dispositivos físicos. Neste minicurso, os alunos compreenderão como usar uma versão especializada do framework Jason para sistemas embarcados; utilizarão um ambiente de desenvolvimento integrado para programar as camadas de firmware e raciocínio de dispositivos cognitivos; conhecerão um sistema operacional específico para sistemas multiagente embarcados; e finalmente, acessarão uma rede IoT para permitir a comunicação entre agentes autônomos e hardware cognitivo. 
+
+{% include alert alert='<strong>Pré-requisitos</strong>: conhecimentos básicos em lógica e programação de computadores.' %}
+
 
 ##### Data:
 11/10
@@ -332,7 +340,7 @@ A definir
 
 Professor no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFETtRJ). Pesquisador nas áreas de segurança em sistemas de informação e sistemas multiagentes embarcados. 
 
-##### Coordenador:
+.##### Coordenador:
 A definir
 
 
@@ -344,6 +352,9 @@ A definir
 # Estratégias de otimização em aplicações ReactJS  
 
 Virtualização, Memoização e Web-workers 
+
+{% include alert alert='<strong>Pré-requisitos</strong>: possuir conhecimento dos fundamentos do ReactJS.' %}
+
 
 ##### Data:
 11/10
@@ -380,3 +391,4 @@ A definir
 [brunoespindola]: https://www.linkedin.com/in/bruno-esp%C3%ADndola-37536a1a8/ 
 [carlospantoja]: http://lattes.cnpq.br/4343654212657424
 [nilsonlazarin]: http://lattes.cnpq.br/4304954704049203
+[danieldallabeneta]: https://www.linkedin.com/in/daniel-dallabeneta-08862079/ 

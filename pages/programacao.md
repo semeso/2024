@@ -45,7 +45,10 @@ permalink: "/programacao/"
 ###### Local: a definir
 <hr>
 
-
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Introdução a programação orientada a objetos em Java][mce]
+###### Local: a definir
+<hr>
 
 # 10/10 (quinta)
 ##### Horário: 13:30 - 18:00
