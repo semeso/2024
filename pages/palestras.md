@@ -56,7 +56,7 @@ A definir
 
 ## Indústria de Jogos: primeiros passos como Engenheiro de Software
 
-Descrição Palestra
+Veremos como a indústria de jogos se comporta do ponto de vista de desenvolvedores, explorando suas características e particularidades e analisando seus prós e seus contras. Além disso, vou compartilhar a dinâmica salarial e projetos que experimentei ao longo da minha carreira e com o avançar da minha senioridade. Para finalizar, darei algumas orientações para quem tem interesse em ingressar na área de desenvolvimento de jogos.
 
 ### [André Luiz Cordeiro Gomes][andregomes]
 <img class="img-responsive" src="{{site.urlimg}}foto-andre-gomes.jpg"/>
