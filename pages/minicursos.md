@@ -192,15 +192,17 @@ A definir
 
 <div class="row t30" id="minicurso_f"></div>
 
-# Minicurso (A definir)
+# Além do git add . 
 
-Descrição do Minicurso
+Neste minicurso, vamos explorar o Git além dos comandos básicos, entendendo seu funcionamento interno. Também veremos como utilizar o GitHub para controle de versão e como implementar um GitFlow eficiente para gerenciar seus projetos de forma organizada.
+
+{% include alert alert='<strong>Pré-requisitos</strong>: nenhum.' %}
 
 ##### Data:
-A definir
+9/10
 
 ##### Horário:
-A definir
+18:50 - 22:20
 
 ##### Vagas:
 A definir
@@ -210,8 +212,10 @@ A definir
 
 ##### Ministrante:
 
-###### Nome Ministrante (A definir)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+###### [Mateus Lucas Cruz Brandt][mateusbrandt]
+<img class="img-responsive" src="{{site.urlimg}}foto-mateus-brandt.jpg"/>
+
+Engenheiro de Software há mais de 7 anos, apaixonado por construir soluções para problemas complexos. Não importa a tecnologia, o que me motiva é buscar sempre eficiência, performance e entregar um resultado que faça a diferença. Gosto de enfrentar desafios técnicos e aprender constantemente para melhorar meu trabalho e a qualidade dos projetos em que estou envolvido. 
 
 ##### Coordenador:
 A definir
@@ -220,15 +224,18 @@ A definir
 
 <div class="row t30" id="minicurso_g"></div>
 
-# Minicurso (A definir)
+# Deploy de aplicação Web na AWS: Introdução prática
 
-Descrição do Minicurso
+Neste curso prático, vamos aprender a realizar o deploy de um blog de tecnologia na Cloud AWS utilizando seus serviços. O objetivo é explorar conceitos essenciais como infraestrutura de redes, segurança, bancos de dados, containers, computação, escalonamento, entre outros. O foco será na prática e no entendimento de como esses elementos se conectam e operam no ambiente cloud. 
+
+{% include alert alert='<strong>Pré-requisitos</strong>: conhecimentos básicos de Docker, Docker Compose e Git.' %}
+
 
 ##### Data:
-A definir
+9/10
 
 ##### Horário:
-A definir
+18:50 - 22:20
 
 ##### Vagas:
 A definir
@@ -238,13 +245,53 @@ A definir
 
 ##### Ministrante:
 
-###### Nome Ministrante (A definir)
-<img class="img-responsive" src="{{site.urlimg}}person.png"/>
+###### [Guilherme Lange][guilhermelange]
+<img class="img-responsive" src="{{site.urlimg}}foto-guilherme-lange.jpg"/>
+
+Engenheiro de Software e Líder Técnico com mais de 6 anos de experiência, apaixonado por explorar novas tecnologias e resolver problemas complexos do mundo real. Minha missão é otimizar processos, aprimorar a qualidade do código e buscar sempre a eficiência em cada solução desenvolvida. 
+
+Com uma visão estratégica do mercado e um olhar atento para oportunidades, estou constantemente aprendendo e aplicando novos conhecimentos para criar produtos que geram impacto. Gosto de enfrentar desafios técnicos e acredito que a inovação é a chave para construir soluções escaláveis e de alto desempenho. 
 
 ##### Coordenador:
 A definir
 
 <hr>
+
+<div class="row t30" id="minicurso_l"></div>
+
+
+# Informática Cloud: Dominando a Integração de Dados na Nuvem 
+
+No contexto atual, a integração eficiente de dados é crucial para o sucesso de qualquer organização que opera na nuvem. Este curso de Informatica Cloud oferece uma compreensão abrangente das práticas e ferramentas essenciais para a integração de dados e sua aplicação em ambientes de nuvem. Com um enfoque detalhado nas melhores práticas do mercado, o curso visa capacitar os participantes a dominar a integração na nuvem, maximizando a eficiência e a interoperabilidade de suas operações. 
+
+{% include alert alert='<strong>Pré-requisitos</strong>: conhecimentos básicos de banco de dados.' %}
+
+
+##### Data:
+9/10
+
+##### Horário:
+18:50 - 22:20
+
+##### Vagas:
+A definir
+
+##### Local:
+A definir
+
+##### Ministrante:
+
+###### [Rafael Abrantes][rafaelabrantes] 
+<img class="img-responsive" src="{{site.urlimg}}foto-rafael-abrantes.jpg"/>
+
+Profissional com 10 anos de carreira na área de dados, consultor em Engenharia de Dados e especialista em Automações de Processos
+
+
+##### Coordenador:
+A definir
+
+<hr>
+
 
 <div class="row t30" id="minicurso_h"></div>
 
@@ -392,3 +439,6 @@ A definir
 [carlospantoja]: http://lattes.cnpq.br/4343654212657424
 [nilsonlazarin]: http://lattes.cnpq.br/4304954704049203
 [danieldallabeneta]: https://www.linkedin.com/in/daniel-dallabeneta-08862079/ 
+[mateusbrandt]: https://www.linkedin.com/in/mateusbrandt/ 
+[guilhermelange]: https://www.linkedin.com/in/guilhermelange/
+[rafaelabrantes]: https://www.linkedin.com/in/rabrante/

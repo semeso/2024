@@ -50,6 +50,17 @@ permalink: "/programacao/"
 ###### Local: a definir
 <hr>
 
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Deploy de aplicação Web na AWS: Introdução prática][mcg]
+###### Local: a definir
+<hr>
+
+
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Informática Cloud: Dominando a Integração de Dados na Nuvem][mcl]
+###### Local: a definir
+<hr>
+
 # 10/10 (quinta)
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Introdução ao C# para programadores Java][mch] 
@@ -114,6 +125,7 @@ permalink: "/programacao/"
  [mci]: {{ site.url }}/minicursos/#minicurso_i
  [mcj]: {{ site.url }}/minicursos/#minicurso_j
  [mck]: {{ site.url }}/minicursos/#minicurso_k
+ [mcl]: {{ site.url }}/minicursos/#minicurso_l
 <!-- links das palestras -->
  [pla]: {{ site.url }}/palestras/#palestra_a
  [plb]: {{ site.url }}/palestras/#palestra_b
