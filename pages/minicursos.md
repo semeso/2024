@@ -27,10 +27,10 @@ Estatística descritiva: manipulação de estruturas de dados, tabulação, grá
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+28
 
 ##### Local:
-A definir
+Laboratório 2
 
 ##### Ministrante:
 
@@ -61,10 +61,10 @@ Apresentar os conceitos fundamentais da biblioteca React e, a partir disso, dese
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+15
 
 ##### Local:
-A definir
+Laboratório 5
 
 ##### Ministrante:
 
@@ -92,7 +92,7 @@ Ensino de robótica utilizando kits Lego Robotics. Entender o funcionamento dos 
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+30
 
 ##### Local:
 Laboratório de Robótica da UDESC Alto Vale ([LABOT][labot])
@@ -141,10 +141,10 @@ A definir
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+20
 
 ##### Local:
-A definir
+Laboratório 202
 
 ##### Ministrante:
 
@@ -173,10 +173,10 @@ Origem da Orientação a Objeto. Conhecendo os Pilares da Orientação a Objeto 
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+15
 
 ##### Local:
-A definir
+Laboratório 4
 
 ##### Ministrante:
 
@@ -205,10 +205,10 @@ Neste minicurso, vamos explorar o Git além dos comandos básicos, entendendo se
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+20
 
 ##### Local:
-A definir
+Laboratório 204
 
 ##### Ministrante:
 
@@ -238,10 +238,10 @@ Neste curso prático, vamos aprender a realizar o deploy de um blog de tecnologi
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+20
 
 ##### Local:
-A definir
+Laboratório 205
 
 ##### Ministrante:
 
@@ -274,10 +274,10 @@ No contexto atual, a integração eficiente de dados é crucial para o sucesso d
 18:50 - 22:20
 
 ##### Vagas:
-A definir
+28
 
 ##### Local:
-A definir
+Laboratório 3
 
 ##### Ministrante:
 
@@ -308,10 +308,10 @@ Aplicações da linguagem C#; Apresentação do ambiente .NET; Comparativos com 
 13:30 - 18:00
 
 ##### Vagas:
-A definir
+28
 
 ##### Local:
-A definir
+Laboratório 2
 
 ##### Ministrante:
 
@@ -342,10 +342,10 @@ Descubra as melhores práticas de design ao criar um aplicativo do zero, mesmo q
 13:30 - 18:00
 
 ##### Vagas:
-A definir
+28
 
 ##### Local:
-A definir
+Laboratório 3
 
 ##### Ministrante:
 
@@ -375,10 +375,10 @@ Várias áreas de aplicação têm utilizado o paradigma da Internet das Coisas 
 13:30 - 18:00
 
 ##### Vagas:
-A definir
+28
 
 ##### Local:
-A definir
+Laboratório 2
 
 ##### Ministrantes:
 
@@ -410,10 +410,10 @@ Virtualização, Memoização e Web-workers
 13:30 - 18:00
 
 ##### Vagas:
-A definir
+28
 
 ##### Local:
-A definir
+Laboratório 3
 
 ##### Ministrante:
 

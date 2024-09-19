@@ -37,9 +37,8 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 
 **Seja consciente** e inscreva-se apenas em minicurso que você atende aos pré-requisitos. Assim você terá melhor aproveitamento do conteúdo, pois os instrutores **não vão explicar/revisar** os conceitos descritos nos pré-requisitos. 
 
-O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.-->
+O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
 
 [formminieso]: https://forms.office.com/
-[formmdavi]: https://forms.office.com/
 [formminiesopublico]: https://forms.office.com/
