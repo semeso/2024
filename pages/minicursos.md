@@ -292,6 +292,41 @@ A definir
 
 <hr>
 
+<div class="row t30" id="minicurso_m"></div>
+
+
+# Processos de Desenvolvimento de Software na Prática
+
+Neste minicurso, vamos explorar o processo de desenvolvimento de software em uma empresa real, trazendo um olhar prático e comparando com a teoria que você já conhece. Você vai descobrir como funcionam as etapas do desenvolvimento, conhecer ferramentas usadas no mercado e ver exemplos de UML, análise de requisitos, e práticas de qualidade de software. Ideal para quem quer entender como a teoria se aplica no dia a dia das equipes de tecnologia! 
+
+{% include alert alert='<strong>Pré-requisitos</strong>: conhecimento básico de algoritmos em qualquer linguagem de programação.' %}
+
+
+##### Data:
+9/10
+
+##### Horário:
+18:50 - 22:20
+
+##### Vagas:
+(a definir)
+
+##### Local:
+Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+
+##### Ministrante:
+
+###### [Diego Didimo][diegodidimo] 
+<img class="img-responsive" src="{{site.urlimg}}foto-diego-didimo.jpg"/>
+
+Analista de Sistemas com mais de 12 anos de experiência e atualmente atua como líder técnico na empresa Panorama Sistemas. Apaixonado por tecnologia e por resolver problemas complexos, Diego busca sempre entregar produtos de qualidade que gerem valor para o cliente, enfrentando os desafios do dia a dia com foco e dedicação. 
+
+
+##### Coordenador:
+A definir
+
+<hr>
+
 
 <div class="row t30" id="minicurso_h"></div>
 
@@ -442,3 +477,4 @@ A definir
 [mateusbrandt]: https://www.linkedin.com/in/mateusbrandt/ 
 [guilhermelange]: https://www.linkedin.com/in/guilhermelange/
 [rafaelabrantes]: https://www.linkedin.com/in/rabrante/
+[diegodidimo]: https://www.linkedin.com/in/diego-didimo-lemos-de-oliveira-76974839/ 

@@ -22,17 +22,17 @@ permalink: "/programacao/"
 # 9/10 (quarta)
 ##### Horário: 13:30 - 18:00
 ###### [Visita Técnica][plv]
-###### Local: a definir
+###### Local: [Panorama Sistemas][panorama]
 <hr>
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Data Science com R][mca]
-###### Local: a definir
+###### Local: Laboratório 2
 <hr>
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [React: construção de plataforma de receitas][mcb]
-###### Local: a definir
+###### Local: Laboratório 5
 <hr>
 
 ##### Horário: 18:50 - 22:20
@@ -42,34 +42,43 @@ permalink: "/programacao/"
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Full Text Search e buscas textuais avançadas no PostgreSQL][mcd]
-###### Local: a definir
+###### Local: Laboratório 202
 <hr>
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Introdução a programação orientada a objetos em Java][mce]
-###### Local: a definir
+###### Local: Laboratório 4
+<hr>
+
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Além do git add .][mcf]
+###### Local: Laboratório 204
 <hr>
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Deploy de aplicação Web na AWS: Introdução prática][mcg]
-###### Local: a definir
+###### Local: Laboratório 205
 <hr>
-
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Informática Cloud: Dominando a Integração de Dados na Nuvem][mcl]
-###### Local: a definir
+###### Local: Laboratório 3
+<hr>
+
+##### Horário: 18:50 - 22:20
+###### Minicurso: [Processos de Desenvolvimento de Software na Prática][mcm]
+###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
 
 # 10/10 (quinta)
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Introdução ao C# para programadores Java][mch] 
-###### Local: a definir
+###### Local: Laboratório 2
 <hr>
 
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Desenhando um app do zero com as melhores práticas do mercado ][mci]
-###### Local: a definir
+###### Local: Laboratório 3
 <hr>
 
 ##### Horário: 19:00 - 20:15
@@ -86,12 +95,12 @@ permalink: "/programacao/"
 # 11/10 (sexta)
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Introdução a Sistemas Multiagente Embarcados e Distribuídos][mcj]
-###### Local: a definir
+###### Local: Laboratório 2
 <hr>
 
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Estratégias de otimização em aplicações ReactJS][mck]
-###### Local: a definir
+###### Local: Laboratório 3
 <hr>
 
 ##### Horário: 19:00 - 20:15
@@ -126,6 +135,7 @@ permalink: "/programacao/"
  [mcj]: {{ site.url }}/minicursos/#minicurso_j
  [mck]: {{ site.url }}/minicursos/#minicurso_k
  [mcl]: {{ site.url }}/minicursos/#minicurso_l
+ [mcm]: {{ site.url }}/minicursos/#minicurso_m
 <!-- links das palestras -->
  [pla]: {{ site.url }}/palestras/#palestra_a
  [plb]: {{ site.url }}/palestras/#palestra_b
@@ -134,3 +144,4 @@ permalink: "/programacao/"
  [plv]: {{ site.url }}/palestras/#palestra_v
  [plx]: {{ site.url }}/palestras/#palestra_x
  [plz]: {{ site.url }}/palestras/#palestra_z
+ [panorama]: https://www.panoramasistemas.com.br/
