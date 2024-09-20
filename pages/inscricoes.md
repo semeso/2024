@@ -25,7 +25,7 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 Cada aluno regularmente matriculado no curso de Engenharia de Software da UDESC Alto Vale pode se inscrever em até 3 minicursos, sendo 1 no dia 09/10, 1 no dia 10/10 e 1 no dia 11/10. 
 
 #### Inscrições para acadêmicos de Engenharia de Software
-- Formulário de inscrição: (em breve)
+- Formulário de inscrição: [https://forms.office.com/r/a9m3sqyLxs][formminieso]
 - Início das inscrições: 22/9 às 12h (meio dia).
 
 #### Inscrições para público geral
