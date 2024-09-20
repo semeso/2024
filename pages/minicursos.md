@@ -433,7 +433,7 @@ A definir
 
 # Estratégias de otimização em aplicações ReactJS  
 
-Virtualização, Memoização e Web-workers 
+Aprenda de forma prática e acessível como otimizar o desempenho de aplicações ReactJS através de técnicas como memoização, para evitar reprocessamentos desnecessários, virtualização, para trabalhar com grandes listas de forma eficiente, e Web Workers, para executar tarefas complexas no navegador.
 
 {% include alert alert='<strong>Pré-requisitos</strong>: possuir conhecimento dos fundamentos do ReactJS.' %}
 
