@@ -8,14 +8,13 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/inscricoes/"
 ---
-Inscrições a definir
-
 As inscrições nas atividades do SEMESO são realizadas conforme descrito a seguir.
 
+A participação nas noites do SEMESO 2024 será contabilizada como presença.
 
 ### Palestras
 
-As palestras do SEMESO realizadas em **(data)** no período **noturno** são **gratuitas** e **abertas ao público**. 
+As palestras do SEMESO são **gratuitas** e **abertas ao público**. 
 
 Não é necessário inscrição, mas **recomenda-se** chegar ao local com antecedência para garantir lugar na plateia.
 
@@ -23,15 +22,15 @@ Não é necessário inscrição, mas **recomenda-se** chegar ao local com antece
 
 Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de Software tem prioridade nas inscrições. Mediante sobra de vagas, a inscrição em algum(ns) minicurso(s) será aberta ao público em geral.
 
+Cada aluno regularmente matriculado no curso de Engenharia de Software da UDESC Alto Vale pode se inscrever em até 3 minicursos, sendo 1 no dia 09/10, 1 no dia 10/10 e 1 no dia 11/10. 
 
 #### Inscrições para acadêmicos de Engenharia de Software
-- Período: 
-- Formulário de inscrição: 
-
+- Formulário de inscrição: (em breve)
+- Início das inscrições: 22/9 às 12h (meio dia).
 
 #### Inscrições para público geral
-- Período:
-- Formulário de inscrição: 
+- Formulário de inscrição: (a definir)
+- Período: (a definir)
 
 #### Orientações importantes
 
@@ -40,5 +39,5 @@ Os minicursos do SEMESO também são gratuitos. Os acadêmicos de Engenharia de 
 O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
 
-[formminieso]: https://forms.office.com/
+[formminieso]: https://forms.office.com/r/a9m3sqyLxs
 [formminiesopublico]: https://forms.office.com/
