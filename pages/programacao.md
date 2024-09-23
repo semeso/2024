@@ -9,8 +9,6 @@ header:
 permalink: "/programacao/"
 ---
 
-<!-- {% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %}-->
-
 
 # 8/10 (terça)
 ##### Horário: 20:15 - 20:45
