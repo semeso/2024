@@ -9,7 +9,7 @@ header:
 permalink: "/minicursos/"
 ---
 
-{% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %}
+<!-- {% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %} -->
 
 <div class="row t30" id="minicurso_a"></div>
 

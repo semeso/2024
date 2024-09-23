@@ -9,7 +9,7 @@ header:
 permalink: "/programacao/"
 ---
 
-{% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %}
+<!-- {% include alert warning='<strong>ATENÇÃO</strong>: Programação preliminar (sujeita a alterações)' %}-->
 
 
 # 8/10 (terça)

@@ -9,7 +9,7 @@ header:
 permalink: "/palestras/"
 ---
 
-{% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %} 
+<!-- {% include alert warning='<strong>ATENÇÃO</strong>. Programação preliminar, sujeita a alterações.' %}  -->
 
 <div class="row 130" id="palestra_x"></div>
 
