@@ -72,7 +72,7 @@ Tenho trabalhado na indústria de jogos por 3 anos, usando principalmente o Unre
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
-A definir
+Prof. Dr. [Adilson Vahldick][av]
 
 <hr>
 
@@ -220,3 +220,4 @@ A definir
 [carlospantoja]: http://lattes.cnpq.br/4343654212657424
 [nilsonlazarin]: http://lattes.cnpq.br/4304954704049203
 [andregomes]: https://www.linkedin.com/in/andr%C3%A9luizcordeirogomes/
+[av]: http://lattes.cnpq.br/3827444548540732
