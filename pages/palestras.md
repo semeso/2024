@@ -34,19 +34,17 @@ A definir
 
 ## Visita Técnica
 
-A definir
-
 ##### Data:
 9/10
 
 ##### Horário:
-13:30 - 18:00
+16:00 - 18:00
 
 ##### Local:
-A definir
+[Panorama Sistemas][panorama]
 
-##### Anfitrião
-A definir
+##### Anfitriã
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 <hr>
 
@@ -72,7 +70,7 @@ Tenho trabalhado na indústria de jogos por 3 anos, usando principalmente o Unre
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
-Prof. Dr. [Adilson Vahldick][av]
+Prof. Dr. [Adilson Vahldick][av](UDESC)
 
 <hr>
 
@@ -221,3 +219,4 @@ A definir
 [nilsonlazarin]: http://lattes.cnpq.br/4304954704049203
 [andregomes]: https://www.linkedin.com/in/andr%C3%A9luizcordeirogomes/
 [av]: http://lattes.cnpq.br/3827444548540732
+[panorama]: https://www.panoramasistemas.com.br
