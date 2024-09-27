@@ -172,7 +172,7 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rodrigo-candido.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rodrigo-cândido-9b789896/">Rodrigo Cândido</a></h4>
-    <p>Application Developer na IBM</p>
+    <p>Senior Software Engineering | Panorama Sistemas</p>
   </div>
 </div>
 
