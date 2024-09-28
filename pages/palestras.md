@@ -55,7 +55,7 @@ Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 Veremos como a indústria de jogos se comporta do ponto de vista de desenvolvedores, explorando suas características e particularidades e analisando seus prós e seus contras. Além disso, vou compartilhar a dinâmica salarial e projetos que experimentei ao longo da minha carreira e com o avançar da minha senioridade. Para finalizar, darei algumas orientações para quem tem interesse em ingressar na área de desenvolvimento de jogos.
 
-### [André Luiz Cordeiro Gomes][andregomes]
+### [André Luiz Cordeiro Gomes][andregomes] (Kokku)
 <img class="img-responsive" src="{{site.urlimg}}foto-andre-gomes.jpg"/>
 
 Tenho trabalhado na indústria de jogos por 3 anos, usando principalmente o Unreal Engine (C++) para criar jogos multiplayer. A maior parte da minha experiência está na programação de jogabilidade e integração de software de terceiros (Playfab, AWS, Azure, EOS, Steam, GPGS).
