@@ -152,22 +152,17 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
 
 ### Painelistas
 <div class="row">
-  <div class="medium-3 large-3 columns">
-    <img class="img-responsive" src="{{site.urlimg}}foto-dionara-conrad.jpg"/>
-    <h4><a href="https://www.linkedin.com/in/dionara-conrad/">Dionara Conrad</a></h4>
-    <p>CEO @ Opens Tecnologia | Professional Mentoring, Team Building</p>
-  </div>
-  <div class="medium-3 large-3 columns">
+  <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
     <h4><a href="https://www.linkedin.com/in/fernanda-gums/">Fernanda Gums</a></h4>
     <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
   </div>
-  <div class="medium-3 large-3 columns">
+  <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rafael-abrantes.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rabrante/">Rafael Abrantes</a></h4>
     <p>Application Developer na IBM</p>
   </div>
-  <div class="medium-3 large-3 columns">
+  <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rodrigo-candido.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rodrigo-cândido-9b789896/">Rodrigo Cândido</a></h4>
     <p>Senior Software Engineering | Panorama Sistemas</p>
