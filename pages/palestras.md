@@ -34,19 +34,17 @@ A definir
 
 ## Visita Técnica
 
-A definir
-
 ##### Data:
 9/10
 
 ##### Horário:
-13:30 - 18:00
+16:00 - 18:00
 
 ##### Local:
-A definir
+[Panorama Sistemas][panorama]
 
-##### Anfitrião
-A definir
+##### Anfitriã
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
 
 <hr>
 
@@ -57,7 +55,7 @@ A definir
 
 Veremos como a indústria de jogos se comporta do ponto de vista de desenvolvedores, explorando suas características e particularidades e analisando seus prós e seus contras. Além disso, vou compartilhar a dinâmica salarial e projetos que experimentei ao longo da minha carreira e com o avançar da minha senioridade. Para finalizar, darei algumas orientações para quem tem interesse em ingressar na área de desenvolvimento de jogos.
 
-### [André Luiz Cordeiro Gomes][andregomes]
+### [André Luiz Cordeiro Gomes][andregomes] (Kokku)
 <img class="img-responsive" src="{{site.urlimg}}foto-andre-gomes.jpg"/>
 
 Tenho trabalhado na indústria de jogos por 3 anos, usando principalmente o Unreal Engine (C++) para criar jogos multiplayer. A maior parte da minha experiência está na programação de jogabilidade e integração de software de terceiros (Playfab, AWS, Azure, EOS, Steam, GPGS).
@@ -72,7 +70,7 @@ Tenho trabalhado na indústria de jogos por 3 anos, usando principalmente o Unre
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 ##### Anfitrião
-Prof. Dr. [Adilson Vahldick][av]
+Prof. Dr. [Adilson Vahldick][av](UDESC)
 
 <hr>
 
@@ -154,25 +152,20 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
 
 ### Painelistas
 <div class="row">
-  <div class="medium-3 large-3 columns">
-    <img class="img-responsive" src="{{site.urlimg}}foto-dionara-conrad.jpg"/>
-    <h4><a href="https://www.linkedin.com/in/dionara-conrad/">Dionara Conrad</a></h4>
-    <p>CEO @ Opens Tecnologia | Professional Mentoring, Team Building</p>
-  </div>
-  <div class="medium-3 large-3 columns">
+  <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
     <h4><a href="https://www.linkedin.com/in/fernanda-gums/">Fernanda Gums</a></h4>
     <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
   </div>
-  <div class="medium-3 large-3 columns">
+  <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rafael-abrantes.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rabrante/">Rafael Abrantes</a></h4>
     <p>Application Developer na IBM</p>
   </div>
-  <div class="medium-3 large-3 columns">
+  <div class="medium-4 large-4 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rodrigo-candido.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rodrigo-cândido-9b789896/">Rodrigo Cândido</a></h4>
-    <p>Application Developer na IBM</p>
+    <p>Senior Software Engineering | Panorama Sistemas</p>
   </div>
 </div>
 
@@ -221,3 +214,4 @@ A definir
 [nilsonlazarin]: http://lattes.cnpq.br/4304954704049203
 [andregomes]: https://www.linkedin.com/in/andr%C3%A9luizcordeirogomes/
 [av]: http://lattes.cnpq.br/3827444548540732
+[panorama]: https://www.panoramasistemas.com.br
