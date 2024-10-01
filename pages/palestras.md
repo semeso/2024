@@ -25,8 +25,10 @@ Cerimônia de abertura com recepção dos alunos e palestrantes.
 ##### Local:
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-##### Anfitrião
-A definir
+##### Anfitriões
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
+Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 
 <hr>
 
@@ -205,8 +207,10 @@ Divulgação de fotos e números do evento. Sorteio de brindes (se disponíveis)
 ##### Local:
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-##### Anfitrião
-A definir
+##### Anfitriões
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
+Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 
 <hr>
 
@@ -220,3 +224,4 @@ A definir
 [andregomes]: https://www.linkedin.com/in/andr%C3%A9luizcordeirogomes/
 [av]: http://lattes.cnpq.br/3827444548540732
 [panorama]: https://www.panoramasistemas.com.br
+[cab]: http://lattes.cnpq.br/4906389456471521
