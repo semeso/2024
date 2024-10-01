@@ -85,22 +85,22 @@ Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDES
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-brenda-paetzoldt.jpg"/>
     <h4><a href="https://www.linkedin.com/in/brenda-paetzoldt/">Brenda Paetzoldt</a></h4>
-    <p>Analista de Migração de Dados na Nydus Systems</p>
+    <p>Analista de Migração de Dados | Nydus Systems</p>
   </div>
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-douglas-martins.jpg"/>
     <h4><a href="https://www.linkedin.com/in/souzadouglasmartins/">Douglas Martins</a></h4>
-    <p>UX Designer na Globo</p>    
+    <p>UX Designer | Globo</p>    
   </div>
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-eloisa-bazzanella.jpg"/>
     <h4><a href="https://www.linkedin.com/in/elo%C3%ADsa-bazzanella-60464317b/">Eloísa Bazzanella</a></h4>
-    <p>Backend Developer na PicPay</p>
+    <p>Backend Developer | PicPay</p>
   </div>
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-guilherme-lange.jpg"/>
     <h4><a href="https://www.linkedin.com/in/guilhermelange/">Guilherme Lange</a></h4>
-    <p>Tech Lead na Siscobra</p>
+    <p>Tech Lead | Siscobra</p>
   </div>
 </div>
 
@@ -152,20 +152,25 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
 
 ### Painelistas
 <div class="row">
-  <div class="medium-4 large-4 columns">
+  <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
     <h4><a href="https://www.linkedin.com/in/fernanda-gums/">Fernanda Gums</a></h4>
-    <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
+    <p>Product Manager e Coordenadora de Desenvolvimento | Mobuss</p> 
   </div>
-  <div class="medium-4 large-4 columns">
+  <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rafael-abrantes.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rabrante/">Rafael Abrantes</a></h4>
-    <p>Application Developer na IBM</p>
+    <p>Application Developer | IBM</p>
   </div>
-  <div class="medium-4 large-4 columns">
+  <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rodrigo-candido.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rodrigo-cândido-9b789896/">Rodrigo Cândido</a></h4>
     <p>Senior Software Engineering | Panorama Sistemas</p>
+  </div>
+  <div class="medium-3 large-3 columns">
+    <img class="img-responsive" src="{{site.urlimg}}foto-luis-vieira.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/luis-carlos-vieira-a2672814a/">Luis Carlos Vieira</a></h4>
+    <p>CO-Founder & CTO | Nxfácil</p>
   </div>
 </div>
 
