@@ -35,6 +35,15 @@ Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 <div class="row 130" id="palestra_v"></div>
 
 ## Visita Técnica
+A visita técnica será na empresa [Panorama Sistemas][panorama]. Endereço: Rua 25 de Julho, 111, Sala 110. Centro - Ibirama/SC.
+
+A UDESC vai oferecer transporte (van) para levar os estudantes até na empresa. <strong>O transporte vai sair do CEAVI as 15:30h.</strong>
+
+Por limitações operacionais, a quantidade de vagas é limitada a <strong>22 participantes</strong>. 
+
+Preencha o formulário abaixo para inscrever na visita técnica. Caso a quantidade de inscritos ultrapasse a quantidade de vagas, o critério de seleção será a ordem de inscrição. Os inscritos selecionados serão comunicados até 8/10. 
+
+Em caso de dúvidas sobre a visita técnica, pode entrar em contato com os professores Marília ou Fernando.
 
 ##### Data:
 9/10
@@ -45,8 +54,9 @@ Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 ##### Local:
 [Panorama Sistemas][panorama]
 
-##### Anfitriã
-Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+##### Formulário de Inscrição
+Faça sua inscrição através deste formulário até 7/10.
+[https://forms.office.com/r/wzEHTnceRq][visitapanorama]
 
 <hr>
 
@@ -225,3 +235,4 @@ Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 [av]: http://lattes.cnpq.br/3827444548540732
 [panorama]: https://www.panoramasistemas.com.br
 [cab]: http://lattes.cnpq.br/4906389456471521
+[visitapanorama]: https://forms.office.com/r/wzEHTnceRq
