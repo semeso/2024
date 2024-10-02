@@ -26,7 +26,9 @@ Cada aluno regularmente matriculado no curso de Engenharia de Software da UDESC 
 
 #### Períodos de Inscrição
 - Acadêmicos de Engenharia de Software: de 22/9 a 01/10.
-- Público externo: de 02/10 a 07/10.
+- Público externo: de 02/10 a 07/10 (para minicursos com vagas remanescentes).
+
+{% include alert alert='<strong>Fique atento aos pré-requisitos de cada minicurso.</strong>' %}
 
 #### Formulário de Inscrição
 Utilize este formulário para inscrição em minicursos: [https://forms.office.com/r/a9m3sqyLxs][formminieso]
@@ -39,4 +41,3 @@ O participante inscrito que **não comparecer** ao minicurso, além de não rece
 
 
 [formminieso]: https://forms.office.com/r/a9m3sqyLxs
-[formminiesopublico]: https://forms.office.com/
