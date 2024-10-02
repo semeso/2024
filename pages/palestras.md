@@ -55,8 +55,7 @@ Em caso de dúvidas sobre a visita técnica, pode entrar em contato com os profe
 [Panorama Sistemas][panorama]
 
 ##### Formulário de Inscrição
-Faça sua inscrição através deste formulário até 7/10.
-[https://forms.office.com/r/wzEHTnceRq][visitapanorama]
+Faça sua inscrição através deste formulário até dia 7/10: [https://forms.office.com/r/wzEHTnceRq][visitapanorama]
 
 <hr>
 
