@@ -39,5 +39,9 @@ Utilize este formulário para inscrição em minicursos: [https://forms.office.c
 
 O participante inscrito que **não comparecer** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
+### Visita Técnica
+
+Informações sobre inscrições para participar da visita técnica estão neste [link][plv].
 
 [formminieso]: https://forms.office.com/r/a9m3sqyLxs
+[plv]: {{ site.url }}/palestras/#palestra_v
