@@ -25,14 +25,25 @@ Cerimônia de abertura com recepção dos alunos e palestrantes.
 ##### Local:
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-##### Anfitrião
-A definir
+##### Anfitriões
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
+Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 
 <hr>
 
 <div class="row 130" id="palestra_v"></div>
 
 ## Visita Técnica
+A visita técnica será na empresa [Panorama Sistemas][panorama]. Endereço: Rua 25 de Julho, 111, Sala 110. Centro - Ibirama/SC.
+
+A UDESC vai oferecer transporte (van) para levar os estudantes até na empresa. <strong>O transporte vai sair do CEAVI as 15:30h.</strong>
+
+Por limitações operacionais, a quantidade de vagas é limitada a <strong>22 participantes</strong>. 
+
+Preencha o formulário abaixo para inscrever na visita técnica. Caso a quantidade de inscritos ultrapasse a quantidade de vagas, o critério de seleção será a ordem de inscrição. Os inscritos selecionados serão comunicados até 8/10. 
+
+Em caso de dúvidas sobre a visita técnica, pode entrar em contato com os professores Marília ou Fernando.
 
 ##### Data:
 9/10
@@ -43,8 +54,8 @@ A definir
 ##### Local:
 [Panorama Sistemas][panorama]
 
-##### Anfitriã
-Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+##### Formulário de Inscrição
+Faça sua inscrição através deste formulário até dia 7/10: [https://forms.office.com/r/wzEHTnceRq][visitapanorama]
 
 <hr>
 
@@ -85,22 +96,22 @@ Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDES
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-brenda-paetzoldt.jpg"/>
     <h4><a href="https://www.linkedin.com/in/brenda-paetzoldt/">Brenda Paetzoldt</a></h4>
-    <p>Analista de Migração de Dados na Nydus Systems</p>
+    <p>Analista de Migração de Dados | Nydus Systems</p>
   </div>
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-douglas-martins.jpg"/>
     <h4><a href="https://www.linkedin.com/in/souzadouglasmartins/">Douglas Martins</a></h4>
-    <p>UX Designer na Globo</p>    
+    <p>UX Designer | Globo</p>    
   </div>
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-eloisa-bazzanella.jpg"/>
     <h4><a href="https://www.linkedin.com/in/elo%C3%ADsa-bazzanella-60464317b/">Eloísa Bazzanella</a></h4>
-    <p>Backend Developer na PicPay</p>
+    <p>Backend Developer | PicPay</p>
   </div>
   <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-guilherme-lange.jpg"/>
     <h4><a href="https://www.linkedin.com/in/guilhermelange/">Guilherme Lange</a></h4>
-    <p>Tech Lead na Siscobra</p>
+    <p>Tech Lead | Siscobra</p>
   </div>
 </div>
 
@@ -152,20 +163,25 @@ Neste painel teremos um bate-papo com profissionais da indústria para discutir 
 
 ### Painelistas
 <div class="row">
-  <div class="medium-4 large-4 columns">
+  <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-fernanda-gums.jpg"/>
     <h4><a href="https://www.linkedin.com/in/fernanda-gums/">Fernanda Gums</a></h4>
-    <p>Product Manager | Coordenadora de Desenvolvimento na Mobuss</p> 
+    <p>Product Manager e Coordenadora de Desenvolvimento | Mobuss</p> 
   </div>
-  <div class="medium-4 large-4 columns">
+  <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rafael-abrantes.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rabrante/">Rafael Abrantes</a></h4>
-    <p>Application Developer na IBM</p>
+    <p>Application Developer | IBM</p>
   </div>
-  <div class="medium-4 large-4 columns">
+  <div class="medium-3 large-3 columns">
     <img class="img-responsive" src="{{site.urlimg}}foto-rodrigo-candido.jpg"/>
     <h4><a href="https://www.linkedin.com/in/rodrigo-cândido-9b789896/">Rodrigo Cândido</a></h4>
     <p>Senior Software Engineering | Panorama Sistemas</p>
+  </div>
+  <div class="medium-3 large-3 columns">
+    <img class="img-responsive" src="{{site.urlimg}}foto-luis-vieira.jpg"/>
+    <h4><a href="https://www.linkedin.com/in/luis-carlos-vieira-a2672814a/">Luis Carlos Vieira</a></h4>
+    <p>CO-Founder & CTO | Nxfácil</p>
   </div>
 </div>
 
@@ -200,8 +216,10 @@ Divulgação de fotos e números do evento. Sorteio de brindes (se disponíveis)
 ##### Local:
 Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
-##### Anfitrião
-A definir
+##### Anfitriões
+Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+Prof. Dr. [Fernando dos Santos][fds] (UDESC)
+Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 
 <hr>
 
@@ -215,3 +233,5 @@ A definir
 [andregomes]: https://www.linkedin.com/in/andr%C3%A9luizcordeirogomes/
 [av]: http://lattes.cnpq.br/3827444548540732
 [panorama]: https://www.panoramasistemas.com.br
+[cab]: http://lattes.cnpq.br/4906389456471521
+[visitapanorama]: https://forms.office.com/r/wzEHTnceRq
