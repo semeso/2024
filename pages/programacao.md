@@ -112,6 +112,13 @@ permalink: "/programacao/"
 
 <hr>
 
+# 12/10 (sábado)
+##### Horário: 15h
+###### Encontro: [Coffee Break das Valerinas (Meninas Digitais da UDESC Alto Vale)][md]
+###### Local: A definir
+
+<hr>
+
 # 14/10 (segunda)
 ##### Horário: 20:15 - 20:45
 ###### [Encerramento do evento][plz] 
@@ -143,3 +150,5 @@ permalink: "/programacao/"
  [plx]: {{ site.url }}/palestras/#palestra_x
  [plz]: {{ site.url }}/palestras/#palestra_z
  [panorama]: https://www.panoramasistemas.com.br/
+ <!-- link do encontro -->
+ [md]: {{ site.url }}/palestras/#meninas_digitais

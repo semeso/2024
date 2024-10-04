@@ -41,6 +41,12 @@ Prof. Dr. [Paulo Roberto Farah][prf]
 
 Acadêmico [Erick Augusto Warmling][eaw]
 
+Acadêmica [Thaiane Bento de Almeida][tba]
+
+Acadêmica [Manoella Felippe][mf]
+
+Acadêmica [Maria Eduarda Müller Ermes][mefe]
+
 
 
 [fds]: http://lattes.cnpq.br/9532186865794326
@@ -55,3 +61,6 @@ Acadêmico [Erick Augusto Warmling][eaw]
 [prf]: http://lattes.cnpq.br/8515153063852772
 [mjm]: http://lattes.cnpq.br/3410696560418245
 [eaw]: https://www.linkedin.com/in/erick-augusto-warmling-073a00225/
+[tba]: https://www.linkedin.com/in/thaiane-almeida/
+[mf]: https://www.linkedin.com/in/manoella-felippe-558046269/
+[mefe]: https://www.linkedin.com/in/maria-eduarda-m%C3%BCller-ermes/
