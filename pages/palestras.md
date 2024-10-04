@@ -201,7 +201,7 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <div class="row t30" id="meninas_digitais"></div>
 
-## Coffe Break das Valerinas (Meninas Digitais da UDESC Alto Vale)
+## Coffee Break das Valerinas (Meninas Digitais da UDESC Alto Vale)
 
 Encontro das Valerinas para todas as meninas e mulheres, com jogos temáticos, café especial e muita conversa.
 
@@ -218,9 +218,11 @@ A definir
 <!--Bloco Imbuia (sala 217)-->
 
 ##### Anfitriões: 
-Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+Acadêmica [Manoella Felippe][mf]
 
-Prof. Dr. [Fernando dos Santos][fds] (UDESC)
+Acadêmica [Maria Eduarda Müller Ermes][mefe]
+
+Acadêmica [Thaiane Bento de Almeida][tba]
 
 <hr>
 
@@ -260,3 +262,6 @@ Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 [panorama]: https://www.panoramasistemas.com.br
 [cab]: http://lattes.cnpq.br/4906389456471521
 [visitapanorama]: https://forms.office.com/r/wzEHTnceRq
+[mf]: https://www.linkedin.com/in/manoella-felippe-558046269/
+[mefe]: https://www.linkedin.com/in/maria-eduarda-m%C3%BCller-ermes/
+[tba]: https://www.linkedin.com/in/thaiane-almeida/

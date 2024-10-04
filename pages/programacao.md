@@ -150,5 +150,4 @@ permalink: "/programacao/"
  [plx]: {{ site.url }}/palestras/#palestra_x
  [plz]: {{ site.url }}/palestras/#palestra_z
  [panorama]: https://www.panoramasistemas.com.br/
- <!-- link do encontro -->
  [md]: {{ site.url }}/palestras/#meninas_digitais
