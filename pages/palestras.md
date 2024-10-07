@@ -39,11 +39,13 @@ A visita técnica será na empresa [Panorama Sistemas][panorama]. Endereço: Rua
 
 A UDESC vai oferecer transporte (van) para levar os estudantes até na empresa. <strong>O transporte vai sair do CEAVI as 15:30h.</strong>
 
-Por limitações operacionais, a quantidade de vagas é limitada a <strong>21 participantes</strong>. 
+Por limitações operacionais, a quantidade de vagas é limitada a <strong>VAGAS ESGOTADAS</strong>. 
 
 Preencha o formulário abaixo para inscrever na visita técnica. Caso a quantidade de inscritos ultrapasse a quantidade de vagas, o critério de seleção será a ordem de inscrição. Os inscritos selecionados serão comunicados até 8/10. 
 
 Em caso de dúvidas sobre a visita técnica, pode entrar em contato com os professores Marília ou Fernando.
+
+{% include alert alert='<strong>As vagas da Visita Técnica estão ESGOTADAS</strong>.' %}
 
 ##### Data:
 9/10
