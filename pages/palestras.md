@@ -214,8 +214,7 @@ Encontro das Valerinas para todas as meninas e mulheres, com jogos temáticos, c
 15h
 
 ##### Local:
-A definir
-<!--Bloco Imbuia (sala 217)-->
+Bloco Imbuia (sala 105)
 
 ##### Anfitriões: 
 Acadêmica [Manoella Felippe][mf]
