@@ -121,7 +121,7 @@ Neste painel teremos um bate-papo com egressos de Engenharia de Software da UDES
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
 
 ##### Data:
-11/10
+10/10
 
 ##### Horário:
 20:45 - 22:00
