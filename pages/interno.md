@@ -12,7 +12,7 @@ permalink: "/materiais/"
 
 - Slides abertura e intervalos [aqui][slides].
 
-- Formulário credenciamento público externo [aqui]
+- Formulário credenciamento público externo [aqui][credexterno].
 
 
 
