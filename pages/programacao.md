@@ -18,7 +18,12 @@ permalink: "/programacao/"
 
 
 # 9/10 (quarta)
-##### Horário: 13:30 - 18:00
+
+##### Horário: 15:00 - 15:20
+###### Coffee-Break (exclusivo para inscritos na Visita Técnica)
+<hr>
+
+##### Horário: 16:00 - 18:00
 ###### [Visita Técnica][plv]
 ###### Local: [Panorama Sistemas][panorama]
 <hr>
@@ -68,6 +73,11 @@ permalink: "/programacao/"
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
 
+##### Horário: 20:20 - 20:40
+###### Coffee-Break
+<hr>
+
+
 # 10/10 (quinta)
 ##### Horário: 13:30 - 18:00
 ###### Minicurso: [Introdução ao C# para programadores Java][mch] 
@@ -79,9 +89,17 @@ permalink: "/programacao/"
 ###### Local: Laboratório 3
 <hr>
 
+##### Horário: 15:00 - 15:20
+###### Coffee-Break (exclusivo para participantes dos minicursos de quinta)
+<hr>
+
 ##### Horário: 19:00 - 20:15
 ###### Palestra: [Indústria de Jogos - primeiros passos como Engenheiro de Software][pla]
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+<hr>
+
+##### Horário: 20:15 - 20:45
+###### Coffee-Break
 <hr>
 
 ##### Horário: 20:45 - 22:00
@@ -101,15 +119,22 @@ permalink: "/programacao/"
 ###### Local: Laboratório 3
 <hr>
 
+##### Horário: 15:00 - 15:20
+###### Coffee-Break (exclusivo para participantes dos minicursos de sexta)
+<hr>
+
 ##### Horário: 19:00 - 20:15
 ###### Palestra: [Engenharia de Sistemas Multiagentes Embarcados][plc]
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 <hr>
 
+##### Horário: 20:15 - 20:45
+###### Coffee-Break
+<hr>
+
 ##### Horário: 20:45 - 22:00
 ###### Painel: [Desafios e Tendências na Indústria de Software][pld]
 ###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
-
 <hr>
 
 # 12/10 (sábado)

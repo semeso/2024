@@ -207,7 +207,7 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 Encontro das Valerinas para todas as meninas e mulheres, com jogos temáticos, café especial e muita conversa.
 
-<img class="img-responsive" src="{{site.urlimg}}logo-valerinas-provisorio-Marilia-Guterres-Ferreira.png" width="150"/>
+<img class="img-responsive" src="{{site.urlimg}}logo-valerinas.png" width="150"/>
 
 ##### Data:
 12/10
