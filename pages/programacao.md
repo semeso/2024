@@ -45,7 +45,7 @@ permalink: "/programacao/"
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Full Text Search e buscas textuais avançadas no PostgreSQL][mcd]
-###### Local: Laboratório 202
+###### Local: Laboratório 204
 <hr>
 
 ##### Horário: 18:50 - 22:20
@@ -55,7 +55,7 @@ permalink: "/programacao/"
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Além do git add .][mcf]
-###### Local: Laboratório 204
+###### Local: Laboratório 3
 <hr>
 
 ##### Horário: 18:50 - 22:20
@@ -65,7 +65,7 @@ permalink: "/programacao/"
 
 ##### Horário: 18:50 - 22:20
 ###### Minicurso: [Informática Cloud: Dominando a Integração de Dados na Nuvem][mcl]
-###### Local: Laboratório 3
+###### Local: Laboratório 202
 <hr>
 
 ##### Horário: 18:50 - 22:20

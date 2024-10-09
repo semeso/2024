@@ -142,7 +142,7 @@ A definir
 20
 
 ##### Local:
-Laboratório 202
+Laboratório 204
 
 ##### Ministrante:
 
@@ -206,7 +206,7 @@ Neste minicurso, vamos explorar o Git além dos comandos básicos, entendendo se
 20
 
 ##### Local:
-Laboratório 204
+Laboratório 3
 
 ##### Ministrante:
 
@@ -275,7 +275,7 @@ No contexto atual, a integração eficiente de dados é crucial para o sucesso d
 28
 
 ##### Local:
-Laboratório 3
+Laboratório 202
 
 ##### Ministrante:
 
