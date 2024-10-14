@@ -147,7 +147,7 @@ permalink: "/programacao/"
 # 14/10 (segunda)
 ##### Horário: 20:15 - 20:45
 ###### [Encerramento do evento][plz] 
-###### Local: Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+###### Local: Online (site do evento)
 <hr>
 
 

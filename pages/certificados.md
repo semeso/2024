@@ -8,9 +8,12 @@ header:
    image_fullwidth: "banner-site.jpg"
 permalink: "/certificados/"
 ---
-Os certificados serão disponibilizados após a realização do evento.
 
-<!--Foram emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
+{% include alert alert='<strong>ATENÇÃO</strong>: Previsão de conclusão dos certificados: <strong>25/10</strong>.' %}
+
+Serão emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
+
+Responsável pela emissão dos certificados: Prof. Dr. [Paolo Moser][pm].
 
 **Atenção** para os critérios de emissão de certificados, descritos mais abaixo.
 
@@ -26,7 +29,7 @@ O participante que **NÃO possui vínculo** com a UDESC, deve seguir o passo a p
 
 ### Palestras
 
-Foi emitido um certificado de **participação no SEMESO 2023** para o participante que **registrou presença** nas **palestras** do evento.  
+Foi emitido um certificado de **participação no SEMESO 2024** para o participante que **registrou presença** nas **palestras** do evento.  
 
 A presença foi registrada através da assinatura do participante em listas de frequência, que foram circuladas em cada palestra.
 
@@ -41,11 +44,8 @@ Foi emitido um certificado para cada minicurso em que o participante registrou *
 
 O participante inscrito que **não compareceu** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
-Os certificados dos minicursos poderão ser utilizados para validar atividades complementares.-->
+Os certificados dos minicursos poderão ser utilizados para validar atividades complementares.
 
-
-
-
-
+[pm]: http://lattes.cnpq.br/2530478080816147
 [certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados
 

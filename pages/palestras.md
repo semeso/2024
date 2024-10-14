@@ -231,9 +231,10 @@ Acadêmica [Thaiane Bento de Almeida][tba]
 
 ## Encerramento do Evento
 
-Cerimônia de encerramento com agradecimento aos alunos e palestrantes. 
+Divulgação das [fotos] do evento.
 
-Divulgação de fotos e números do evento. Sorteio de brindes (se disponíveis).
+Divulgação dos [certificados] do evento.
+
 
 ##### Data:
 14/10
@@ -242,12 +243,17 @@ Divulgação de fotos e números do evento. Sorteio de brindes (se disponíveis)
 20:15 - 20:45
 
 ##### Local:
-Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
+Online, aqui no site do evento.
 
 ##### Anfitriões
 Profª. Dra. [Marília Guterres Ferreira][mgf] (UDESC)
+
 Prof. Dr. [Fernando dos Santos][fds] (UDESC)
-Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
+
+Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
+
+Prof. Dr. [Paolo Moser][pm] (UDESC)
+
 
 <hr>
 
@@ -266,3 +272,6 @@ Prof. Prof. Msc. [Carlos Alberto Barth][cab] (UDESC)
 [mf]: https://www.linkedin.com/in/manoella-felippe-558046269/
 [mefe]: https://www.linkedin.com/in/maria-eduarda-m%C3%BCller-ermes/
 [tba]: https://www.linkedin.com/in/thaiane-almeida/
+[pm]: http://lattes.cnpq.br/2530478080816147
+[fotos]: {{ site.url }}/fotos
+[certificados]: {{ site.url }}/certificados

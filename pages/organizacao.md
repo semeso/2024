@@ -23,6 +23,10 @@ Prof. Msc. [Mattheus da Hora França][mhf]
 
 Prof. Msc. [Carlos Alberto Barth][cab]
 
+## Coordenação de Certificados
+
+Prof. Dr. [Paolo Moser][pm]
+
 ## Equipe Organizadora
 
 Prof. Dr. [Adilson Vahldick][av]
@@ -34,8 +38,6 @@ Prof. Dr. [Marcelo de Souza][ms]
 Prof. Dr. [Márcio José Mantau][mjm]
 
 Prof. Dr. [Pablo Schoeffel][ps]
-
-Prof. Dr. [Paolo Moser][pm]
 
 Prof. Dr. [Paulo Roberto Farah][prf]
 

@@ -8,12 +8,11 @@ permalink           : "/fotos/"
 header:
    image_fullwidth: "banner-site.jpg"
 ---
-As fotos do SEMESO 2024 serão disponibilizadas após a realização do evento.
-<!--As fotos do SEMESO 2023 estão disponiveis neste link: [https://drive.google.com/drive/folders/1uwxX6YLLL5trdJpPGDhqsT_3BuqNy_FD][fotos]-->
+As fotos do SEMESO 2024 estão disponiveis neste link: [https://drive.google.com/drive/folders/1QpDtk8kGMIORNoTOCHYD0DOGhUVkyWqz][fotos]
 
 
 
 
 
-[fotos]: https://drive.google.com/drive/folders/1uwxX6YLLL5trdJpPGDhqsT_3BuqNy_FD
+[fotos]: https://drive.google.com/drive/folders/1QpDtk8kGMIORNoTOCHYD0DOGhUVkyWqz
 
