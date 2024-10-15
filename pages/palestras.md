@@ -231,10 +231,11 @@ Acadêmica [Thaiane Bento de Almeida][tba]
 
 ## Encerramento do Evento
 
-Divulgação das [fotos] do evento.
+Divulgação das [fotos][fotos] do evento.
 
-Divulgação dos [certificados] do evento.
+Divulgação dos [certificados][certificados] do evento.
 
+Divulgação do [formulário de avaliação][formavaliacao] do evento.
 
 ##### Data:
 14/10
@@ -275,3 +276,4 @@ Prof. Dr. [Paolo Moser][pm] (UDESC)
 [pm]: http://lattes.cnpq.br/2530478080816147
 [fotos]: {{ site.url }}/fotos
 [certificados]: {{ site.url }}/certificados
+[formavaliacao]: https://forms.office.com/r/nJX5Kbf8hp
