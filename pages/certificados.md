@@ -9,8 +9,6 @@ header:
 permalink: "/certificados/"
 ---
 
-{% include alert alert='<strong>ATENÇÃO</strong>: Previsão de conclusão dos certificados: <strong>25/10</strong>.' %}
-
 Serão emitidos certificados eletrônicos para os **participantes** de palestras e minicursos, e também para os **ministrantes** das palestras e minicursos.
 
 Responsável pela emissão dos certificados: Prof. Dr. [Paolo Moser][pm].
@@ -44,7 +42,13 @@ Foi emitido um certificado para cada minicurso em que o participante registrou *
 
 O participante inscrito que **não compareceu** ao minicurso, além de não receber certificado, poderá ser impedido de participar de minicursos na próxima edição do SEMESO.
 
-Os certificados dos minicursos poderão ser utilizados para validar atividades complementares.
+Os certificados dos minicursos podem ser utilizados para validar atividades complementares.
+
+### Visita Técnica
+
+Foi emitido um certificado para o estudante que participou da visita técnica. 
+
+O certificado da visita técnica pode ser utilizados para validar atividades complementares.
 
 [pm]: http://lattes.cnpq.br/2530478080816147
 [certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados
