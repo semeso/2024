@@ -203,7 +203,7 @@ Auditório UDESC Alto Vale (bloco Imbuia, 3º andar)
 
 <div class="row t30" id="meninas_digitais"></div>
 
-## Coffee Break das Valerinas (Meninas Digitais da UDESC Alto Vale)
+## II Encontro das Valerinas (Meninas Digitais da UDESC Alto Vale)
 
 Encontro das Valerinas para todas as meninas e mulheres, com jogos temáticos, café especial e muita conversa.
 
