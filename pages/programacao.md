@@ -139,8 +139,8 @@ permalink: "/programacao/"
 
 # 12/10 (sábado)
 ##### Horário: 15h
-###### Encontro: [Coffee Break das Valerinas (Meninas Digitais da UDESC Alto Vale)][md]
-###### Local: Bloco Imuia (sala 105)
+###### Encontro: [II Encontro das Valerinas (Meninas Digitais da UDESC Alto Vale)][md]
+###### Local: Bloco Imbuia (sala 105)
 
 <hr>
 
