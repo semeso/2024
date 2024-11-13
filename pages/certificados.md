@@ -18,7 +18,7 @@ Responsável pela emissão dos certificados: Prof. Dr. [Paolo Moser][pm].
 
 ### Acesso aos Certificados
 
-Os certificados devem ser baixados através do sistema de certificados da UDESC, disponível em [https://certificados.sistemas.udesc.br/Certificados/MeusCertificados][certificados] 
+Os certificados devem ser baixados através do sistema de certificados da UDESC, disponível em [https://certificados.sistemas.udesc.br/Certificados/MeusCertificados/index?opcao=listar][certificados] 
 
 O participante que **possui vínculo** com a UDESC deve clicar na opção **Acesso via ID UDESC para listar certificados**.
 
@@ -51,5 +51,5 @@ Foi emitido um certificado para o estudante que participou da visita técnica.
 O certificado da visita técnica pode ser utilizados para validar atividades complementares.
 
 [pm]: http://lattes.cnpq.br/2530478080816147
-[certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados
+[certificados]: https://certificados.sistemas.udesc.br/Certificados/MeusCertificados/index?opcao=listar
 
